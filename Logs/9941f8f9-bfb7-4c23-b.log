@@ -1,0 +1,2065 @@
+2014-01-08 17:00:11,083 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-08 17:01:27,543 - WARNING: Room Created: id= 1360220515
+2014-01-08 17:01:29,709 - WARNING: Room Created: id= 284075701
+2014-01-08 17:01:30,146 - WARNING: Room Created: id= 540132073
+2014-01-08 17:04:10,058 - INFO: closing IoSession /0:0:0:0:0:0:0:1:64590 for user dsaf
+2014-01-08 17:29:18,657 - INFO: closing IoSession /0:0:0:0:0:0:0:1:64842 for user dsf
+2014-01-08 17:37:16,944 - INFO: closing IoSession /0:0:0:0:0:0:0:1:64987 for user ewwer
+2014-01-08 17:51:34,038 - INFO: closing IoSession /0:0:0:0:0:0:0:1:64940 for user weref
+2014-01-08 18:06:49,837 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50153 for user asdf
+2014-01-08 18:12:31,364 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50752 for user dsaf
+2014-01-08 23:15:00,007 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-08 23:15:00,053 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-08 23:15:00,054 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-08 23:15:00,054 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-08 23:16:46,014 - WARNING: Room Created: id= 734871524
+2014-01-08 23:16:54,388 - WARNING: Room Created: id= 1506362871
+2014-01-08 23:17:00,161 - WARNING: Room Created: id= 1045027245
+2014-01-08 23:17:03,761 - WARNING: Room Created: id= 1807597455
+2014-01-08 23:18:53,561 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53723 for user asdfd
+2014-01-08 23:18:54,182 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53756 for user sadf
+2014-01-09 11:27:25,156 - INFO: closing IoSession /0:0:0:0:0:0:0:1:57234 for user dafds
+2014-01-09 11:59:51,417 - INFO: closing IoSession /0:0:0:0:0:0:0:1:57445 for user fgh
+2014-01-09 12:00:46,799 - INFO: closing IoSession /0:0:0:0:0:0:0:1:60851 for user sadf
+2014-01-09 12:01:37,315 - INFO: closing IoSession /0:0:0:0:0:0:0:1:60933 for user asdf
+2014-01-09 12:02:15,024 - INFO: closing IoSession /0:0:0:0:0:0:0:1:61013 for user fghk
+2014-01-09 12:02:56,434 - INFO: closing IoSession /0:0:0:0:0:0:0:1:61061 for user asdf
+2014-01-09 12:04:19,887 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 12:04:19,890 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 12:04:19,890 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 12:04:19,890 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 12:04:19,890 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 12:04:19,890 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 12:04:19,890 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 12:04:19,890 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 12:06:45,562 - INFO: closing IoSession /0:0:0:0:0:0:0:1:61302 for user fgjh
+2014-01-09 12:13:47,475 - INFO: closing IoSession /0:0:0:0:0:0:0:1:61520 for user fhkfh
+2014-01-09 12:14:12,621 - WARNING: Room Created: id= 1002607633
+2014-01-09 12:15:08,564 - WARNING: Room Created: id= 2142367154
+2014-01-09 12:16:50,715 - INFO: closing IoSession /0:0:0:0:0:0:0:1:62165 for user asdf
+2014-01-09 12:16:52,826 - WARNING: Room Created: id= 47994028
+2014-01-09 12:19:40,199 - INFO: closing IoSession /0:0:0:0:0:0:0:1:62480 for user asdf
+2014-01-09 12:19:41,927 - INFO: closing IoSession /0:0:0:0:0:0:0:1:62745 for user h
+2014-01-09 12:20:06,835 - INFO: closing IoSession /0:0:0:0:0:0:0:1:62782 for user sdfg
+2014-01-09 12:20:27,017 - INFO: closing IoSession /0:0:0:0:0:0:0:1:62813 for user hh
+2014-01-09 12:21:22,059 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 12:21:22,061 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 12:21:22,061 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 12:21:22,061 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 12:21:22,061 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 12:21:22,061 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 12:21:22,061 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 12:21:22,061 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 12:21:30,062 - WARNING: Room Created: id= 2084724743
+2014-01-09 12:23:38,722 - INFO: closing IoSession /0:0:0:0:0:0:0:1:62965 for user sdaf
+2014-01-09 12:23:40,770 - WARNING: Room Created: id= 136661217
+2014-01-09 12:25:32,960 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 12:25:32,961 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 12:25:32,961 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 12:25:32,961 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 12:25:32,961 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 12:25:32,961 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 12:25:32,961 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 12:25:32,961 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 12:25:36,175 - WARNING: Room Created: id= 2043635139
+2014-01-09 12:26:31,832 - WARNING: disconnecting old session for user we
+2014-01-09 12:26:31,833 - WARNING: handleSessionClosed user for this session is already deleted
+2014-01-09 12:29:13,934 - WARNING: Room Created: id= 1767782419
+2014-01-09 12:29:44,401 - INFO: closing IoSession /0:0:0:0:0:0:0:1:63366 for user asdf
+2014-01-09 12:29:45,110 - INFO: closing IoSession /0:0:0:0:0:0:0:1:63421 for user awe
+2014-01-09 12:30:03,994 - INFO: closing IoSession /0:0:0:0:0:0:0:1:63468 for user we
+2014-01-09 12:31:09,312 - INFO: closing IoSession /0:0:0:0:0:0:0:1:63736 for user ewe
+2014-01-09 12:32:01,977 - INFO: closing IoSession /0:0:0:0:0:0:0:1:63950 for user fdsv
+2014-01-09 12:32:02,002 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:63950
+2014-01-09 12:32:03,008 - INFO: closing IoSession /0:0:0:0:0:0:0:1:63937 for user we
+2014-01-09 12:32:03,806 - INFO: closing IoSession /0:0:0:0:0:0:0:1:63926 for user ae
+2014-01-09 12:40:40,661 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 12:40:40,662 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 12:40:40,662 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 12:40:40,662 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 12:40:40,662 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 12:40:40,662 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 12:40:40,662 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 12:40:40,662 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 12:40:49,549 - WARNING: Room Created: id= 1448979646
+2014-01-09 12:40:58,470 - WARNING: Room Created: id= 1230401946
+2014-01-09 12:41:13,418 - WARNING: Room Created: id= 290211026
+2014-01-09 12:41:36,016 - INFO: closing IoSession /0:0:0:0:0:0:0:1:65201 for user fdsa
+2014-01-09 12:41:45,649 - INFO: closing IoSession /0:0:0:0:0:0:0:1:65217 for user ewrwer
+2014-01-09 12:42:26,877 - INFO: closing IoSession /0:0:0:0:0:0:0:1:65278 for user fdgdf
+2014-01-09 12:42:44,944 - INFO: closing IoSession /0:0:0:0:0:0:0:1:65306 for user hgfhfg
+2014-01-09 12:43:07,962 - INFO: closing IoSession /0:0:0:0:0:0:0:1:65124 for user war
+2014-01-09 12:43:10,167 - INFO: closing IoSession /0:0:0:0:0:0:0:1:65340 for user ghlhk
+2014-01-09 12:43:13,214 - INFO: closing IoSession /0:0:0:0:0:0:0:1:65143 for user weer
+2014-01-09 12:43:13,665 - INFO: closing IoSession /0:0:0:0:0:0:0:1:65156 for user fads
+2014-01-09 12:43:15,299 - INFO: closing IoSession /0:0:0:0:0:0:0:1:65166 for user rr
+2014-01-09 12:43:17,286 - INFO: closing IoSession /0:0:0:0:0:0:0:1:65350 for user hopi
+2014-01-09 12:44:08,077 - INFO: closing IoSession /0:0:0:0:0:0:0:1:65426 for user jop
+2014-01-09 12:44:42,607 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 12:44:42,608 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 12:44:42,608 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 12:44:42,609 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 12:44:42,609 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 12:44:42,609 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 12:44:42,609 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 12:44:42,609 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 12:44:59,498 - WARNING: Room Created: id= 1224271768
+2014-01-09 13:29:18,397 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 13:29:18,398 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 13:29:18,398 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 13:29:18,398 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 13:29:18,398 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 13:29:18,399 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 13:29:18,399 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 13:29:18,399 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 13:29:36,535 - WARNING: Room Created: id= 1077693547
+2014-01-09 13:39:08,795 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53355 for user xcv
+2014-01-09 13:39:19,042 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53383 for user asdas
+2014-01-09 13:39:25,829 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53519 for user rfgsd
+2014-01-09 13:39:40,078 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53530 for user edfsd
+2014-01-09 13:39:59,721 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54228 for user gk
+2014-01-09 13:40:06,624 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54244 for user hjk
+2014-01-09 13:40:21,951 - WARNING: Room Created: id= 843034533
+2014-01-09 13:40:27,409 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54310 for user fghfd
+2014-01-09 13:41:00,403 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 13:41:00,404 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 13:41:00,404 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 13:41:00,404 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 13:41:00,404 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 13:41:00,404 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 13:41:00,404 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 13:41:00,404 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 13:41:08,983 - WARNING: Room Created: id= 229042192
+2014-01-09 13:41:12,263 - WARNING: Room Created: id= 1525273575
+2014-01-09 13:41:15,431 - WARNING: Room Created: id= 57904557
+2014-01-09 13:41:30,739 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 13:41:30,741 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 13:41:30,741 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 13:41:30,741 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 13:41:30,741 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 13:41:30,741 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 13:41:30,741 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 13:41:30,741 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 13:41:36,396 - WARNING: Room Created: id= 1569203070
+2014-01-09 14:09:01,815 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 14:09:01,816 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 14:09:01,816 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 14:09:01,816 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 14:09:01,816 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 14:09:01,816 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 14:09:01,816 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 14:09:01,816 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 14:09:09,958 - WARNING: Room Created: id= 1681824570
+2014-01-09 14:52:53,583 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 14:52:53,584 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 14:52:53,584 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 14:52:53,584 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 14:52:53,584 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 14:52:53,584 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 14:52:53,584 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 14:52:53,584 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 14:53:06,530 - WARNING: Room Created: id= 822871768
+2014-01-09 15:11:27,974 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 15:11:27,974 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 15:11:27,974 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 15:11:27,974 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 15:11:27,975 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 15:11:27,975 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 15:11:27,975 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 15:11:27,975 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 15:11:35,305 - WARNING: Room Created: id= 444790203
+2014-01-09 15:23:35,555 - INFO: closing IoSession /0:0:0:0:0:0:0:1:63052 for user asdf
+2014-01-09 15:23:38,320 - WARNING: Room Created: id= 849306412
+2014-01-09 15:33:41,430 - INFO: closing IoSession /0:0:0:0:0:0:0:1:64161 for user gjkgh
+2014-01-09 15:35:54,159 - INFO: closing IoSession /0:0:0:0:0:0:0:1:65157 for user hh
+2014-01-09 15:36:16,526 - INFO: closing IoSession /0:0:0:0:0:0:0:1:63062 for user av
+2014-01-09 15:37:06,474 - INFO: closing IoSession /0:0:0:0:0:0:0:1:63070 for user afew
+2014-01-09 15:38:22,416 - INFO: closing IoSession /0:0:0:0:0:0:0:1:65364 for user dfg
+2014-01-09 15:38:22,417 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:65364
+2014-01-09 15:38:34,165 - INFO: closing IoSession /0:0:0:0:0:0:0:1:65475 for user tyuty
+2014-01-09 15:38:43,696 - INFO: closing IoSession /0:0:0:0:0:0:0:1:63080 for user fewss
+2014-01-09 15:51:15,335 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49214 for user sdfgsdf
+2014-01-09 15:51:44,862 - WARNING: Room Created: id= 1918331772
+2014-01-09 15:52:36,832 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50417 for user asdf
+2014-01-09 15:53:37,351 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50514 for user adsf
+2014-01-09 15:53:54,290 - INFO: closing IoSession /0:0:0:0:0:0:0:1:65398 for user fg
+2014-01-09 15:53:56,319 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49233 for user wefefw
+2014-01-09 15:53:58,295 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49249 for user fweefw
+2014-01-09 15:54:00,518 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50602 for user afd
+2014-01-09 15:55:48,568 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50636 for user asdf
+2014-01-09 15:55:53,148 - WARNING: Room Created: id= 333774982
+2014-01-09 15:56:06,375 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50818 for user ert
+2014-01-09 15:56:11,253 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50828 for user sdfg
+2014-01-09 15:56:17,629 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50838 for user rereerrer
+2014-01-09 15:56:22,490 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50796 for user fgh
+2014-01-09 15:56:23,949 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50848 for user asdfadsf
+2014-01-09 15:56:48,769 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 15:56:48,770 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 15:56:48,770 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 15:56:48,770 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 15:56:48,770 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 15:56:48,771 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 15:56:48,771 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 15:56:48,771 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 15:56:51,070 - WARNING: Room Created: id= 547941973
+2014-01-09 15:58:29,505 - INFO: closing IoSession /0:0:0:0:0:0:0:1:51045 for user adsfa
+2014-01-09 15:59:00,916 - INFO: closing IoSession /0:0:0:0:0:0:0:1:51082 for user dsfgfg
+2014-01-09 16:00:17,877 - WARNING: Room Created: id= 1975768498
+2014-01-09 16:00:31,017 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50908 for user fgh
+2014-01-09 16:00:31,712 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50943 for user wewe
+2014-01-09 16:00:31,956 - INFO: closing IoSession /0:0:0:0:0:0:0:1:51128 for user asdf
+2014-01-09 16:00:35,580 - WARNING: Room Created: id= 581311806
+2014-01-09 16:00:38,984 - INFO: closing IoSession /0:0:0:0:0:0:0:1:51176 for user fhgh
+2014-01-09 16:00:53,686 - INFO: closing IoSession /0:0:0:0:0:0:0:1:51208 for user we
+2014-01-09 16:01:09,479 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 16:01:09,480 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 16:01:09,480 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 16:01:09,480 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 16:01:09,480 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 16:01:09,480 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 16:01:09,480 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 16:01:09,481 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 16:01:17,772 - WARNING: Room Created: id= 2127815778
+2014-01-09 16:03:36,940 - INFO: closing IoSession /0:0:0:0:0:0:0:1:51227 for user ghkjgh
+2014-01-09 16:03:40,752 - WARNING: Room Created: id= 760726399
+2014-01-09 16:03:42,524 - INFO: closing IoSession /0:0:0:0:0:0:0:1:51228 for user jjj
+2014-01-09 16:04:32,364 - INFO: closing IoSession /0:0:0:0:0:0:0:1:51255 for user jjj
+2014-01-09 16:06:51,823 - INFO: closing IoSession /0:0:0:0:0:0:0:1:51256 for user asdfasdf
+2014-01-09 16:06:54,641 - WARNING: Room Created: id= 1695235333
+2014-01-09 16:06:58,626 - INFO: closing IoSession /0:0:0:0:0:0:0:1:51254 for user jhkgh
+2014-01-09 16:07:00,056 - INFO: closing IoSession /0:0:0:0:0:0:0:1:51276 for user erter
+2014-01-09 16:09:49,897 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 16:09:49,898 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 16:09:49,898 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 16:09:49,898 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 16:09:49,898 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 16:09:49,898 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 16:09:49,898 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 16:09:49,898 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 16:09:55,947 - WARNING: Room Created: id= 742774072
+2014-01-09 16:12:21,015 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 16:12:21,018 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 16:12:21,018 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 16:12:21,018 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 16:12:21,018 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 16:12:21,018 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 16:12:21,018 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 16:12:21,019 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 16:13:43,972 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 16:13:43,974 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 16:13:43,974 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 16:13:43,975 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 16:13:43,975 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 16:13:43,975 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 16:13:43,975 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 16:13:43,975 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 16:13:47,031 - WARNING: Room Created: id= 18063000
+2014-01-09 16:14:51,741 - INFO: closing IoSession /0:0:0:0:0:0:0:1:51380 for user hjlh
+2014-01-09 16:14:52,888 - INFO: closing IoSession /0:0:0:0:0:0:0:1:51381 for user hjjh
+2014-01-09 16:14:56,670 - WARNING: Room Created: id= 68557833
+2014-01-09 16:28:06,812 - INFO: closing IoSession /0:0:0:0:0:0:0:1:51450 for user adf
+2014-01-09 16:29:46,267 - INFO: closing IoSession /0:0:0:0:0:0:0:1:51540 for user asdfdas
+2014-01-09 16:29:56,855 - INFO: closing IoSession /0:0:0:0:0:0:0:1:51542 for user redgf
+2014-01-09 16:43:02,901 - INFO: closing IoSession /0:0:0:0:0:0:0:1:51543 for user fasd
+2014-01-09 16:45:48,735 - INFO: closing IoSession /0:0:0:0:0:0:0:1:51641 for user jjk
+2014-01-09 16:47:29,698 - INFO: closing IoSession /0:0:0:0:0:0:0:1:51659 for user jjj
+2014-01-09 16:49:18,646 - INFO: closing IoSession /0:0:0:0:0:0:0:1:51665 for user dhgh
+2014-01-09 17:21:58,390 - INFO: closing IoSession /0:0:0:0:0:0:0:1:51668 for user asdf
+2014-01-09 17:24:50,581 - INFO: closing IoSession /0:0:0:0:0:0:0:1:52000 for user asdf
+2014-01-09 17:25:14,122 - INFO: closing IoSession /0:0:0:0:0:0:0:1:52001 for user dasf
+2014-01-09 17:27:22,126 - INFO: closing IoSession /0:0:0:0:0:0:0:1:52002 for user asdfwe
+2014-01-09 17:28:57,831 - INFO: closing IoSession /0:0:0:0:0:0:0:1:52012 for user asdf
+2014-01-09 17:29:11,861 - WARNING: Room Created: id= 26701934
+2014-01-09 17:51:26,211 - INFO: closing IoSession /0:0:0:0:0:0:0:1:52015 for user asdfwe
+2014-01-09 17:51:44,867 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 17:51:44,868 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 17:51:44,868 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 17:51:44,868 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 17:51:44,868 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 17:51:44,868 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 17:51:44,869 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 17:51:44,869 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-09 17:52:08,333 - WARNING: Room Created: id= 337332417
+2014-01-09 17:53:42,122 - INFO: closing IoSession /0:0:0:0:0:0:0:1:52280 for user eae
+2014-01-09 17:54:42,578 - INFO: closing IoSession /0:0:0:0:0:0:0:1:52283 for user aer
+2014-01-09 17:55:07,823 - INFO: closing IoSession /0:0:0:0:0:0:0:1:52284 for user daff
+2014-01-09 17:55:46,770 - INFO: closing IoSession /0:0:0:0:0:0:0:1:52285 for user adfwe
+2014-01-09 17:57:22,442 - INFO: closing IoSession /0:0:0:0:0:0:0:1:52287 for user wer
+2014-01-09 17:58:49,484 - INFO: closing IoSession /0:0:0:0:0:0:0:1:52288 for user asdf
+2014-01-09 17:59:19,095 - INFO: closing IoSession /0:0:0:0:0:0:0:1:52306 for user weew
+2014-01-09 18:19:26,360 - INFO: closing IoSession /0:0:0:0:0:0:0:1:52307 for user werwe
+2014-01-09 18:23:04,868 - INFO: closing IoSession /0:0:0:0:0:0:0:1:52871 for user gfd
+2014-01-09 18:23:45,394 - INFO: closing IoSession /0:0:0:0:0:0:0:1:52891 for user awer
+2014-01-09 18:24:05,244 - INFO: closing IoSession /0:0:0:0:0:0:0:1:52899 for user fghfg
+2014-01-09 18:36:29,793 - INFO: closing IoSession /0:0:0:0:0:0:0:1:52903 for user sdf
+2014-01-09 19:03:45,937 - INFO: closing IoSession /0:0:0:0:0:0:0:1:52964 for user asdffa
+2014-01-09 19:04:06,353 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53175 for user dfsg
+2014-01-09 19:06:55,077 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53179 for user dfger
+2014-01-09 19:10:32,669 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53196 for user wer
+2014-01-09 19:11:43,762 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53231 for user wer
+2014-01-09 19:13:13,817 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53244 for user wer
+2014-01-09 19:14:28,925 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53250 for user ewr
+2014-01-09 19:19:37,498 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53252 for user ertrt
+2014-01-09 19:20:09,120 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53299 for user ewrwe
+2014-01-09 19:31:59,833 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53301 for user wersdf
+2014-01-09 19:32:18,481 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53357 for user werasdf
+2014-01-09 19:45:02,543 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53371 for user werew
+2014-01-09 19:45:36,741 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53446 for user sfg
+2014-01-09 19:47:47,382 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53448 for user asdfwe
+2014-01-09 19:48:01,993 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53460 for user fds
+2014-01-09 19:48:48,928 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53461 for user sdaf
+2014-01-09 19:56:53,576 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53359 for user qwersdf
+2014-01-09 19:57:10,245 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53591 for user asdfv
+2014-01-09 19:58:27,725 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53593 for user dasfasd
+2014-01-09 19:58:46,463 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53623 for user sdaf
+2014-01-09 19:58:54,419 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53627 for user asdf
+2014-01-09 19:59:02,305 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53628 for user efa
+2014-01-09 19:59:40,024 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53629 for user adfsa
+2014-01-09 20:00:10,294 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53630 for user adf
+2014-01-09 20:00:19,260 - WARNING: closing idle session /0:0:0:0:0:0:0:1:53634
+2014-01-09 20:00:19,261 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53634 for user asdf
+2014-01-09 20:02:30,654 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53641 for user adf
+2014-01-09 20:03:01,601 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53650 for user fewfew
+2014-01-09 20:03:09,409 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53471 for user asdfwe
+2014-01-09 20:21:00,659 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53657 for user werwer
+2014-01-09 20:21:13,148 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53890 for user werfs
+2014-01-09 20:21:56,171 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53895 for user adsf
+2014-01-09 20:23:15,214 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53899 for user adfd
+2014-01-09 20:23:25,441 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53659 for user wwww
+2014-01-09 20:24:19,201 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53656 for user adsfew
+2014-01-09 20:24:33,731 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53912 for user fgjhgj
+2014-01-09 20:26:22,869 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53926 for user qwert
+2014-01-09 20:26:23,840 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53930 for user asdf
+2014-01-09 20:26:24,331 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53913 for user ewweew
+2014-01-09 20:26:24,332 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:53913
+2014-01-09 20:26:24,827 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53660 for user vvv
+2014-01-09 20:26:31,860 - WARNING: Room Created: id= 1293549949
+2014-01-09 20:31:11,088 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53934 for user weer
+2014-01-09 20:31:12,084 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53935 for user ertrt
+2014-01-09 20:32:23,004 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53963 for user werwe
+2014-01-09 20:32:25,659 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53965 for user gfdsgsdf
+2014-01-09 20:33:22,311 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53973 for user gfh
+2014-01-09 20:33:23,452 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53968 for user qwert
+2014-01-09 20:33:24,004 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53970 for user asdf
+2014-01-09 20:40:10,960 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53974 for user qewr
+2014-01-09 20:40:11,427 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53975 for user asdf
+2014-01-09 20:40:11,912 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53976 for user fdgh
+2014-01-09 20:40:11,914 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:53976
+2014-01-09 20:40:12,352 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53978 for user hjkl
+2014-01-09 20:40:19,261 - WARNING: Room Created: id= 151413484
+2014-01-09 20:43:05,128 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54116 for user 1
+2014-01-09 20:43:05,558 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54118 for user qwerty
+2014-01-09 20:43:06,010 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54119 for user asdf
+2014-01-09 21:08:04,836 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54138 for user qwert
+2014-01-09 21:08:06,119 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54139 for user erty
+2014-01-09 21:08:06,594 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54140 for user asdf
+2014-01-09 21:08:06,595 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:54140
+2014-01-09 21:08:06,992 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54151 for user fghjgh
+2014-01-09 21:08:10,297 - WARNING: Room Created: id= 1973322508
+2014-01-09 21:18:10,731 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54301 for user qwer
+2014-01-09 21:18:11,123 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54302 for user asdf
+2014-01-09 21:18:11,499 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54304 for user zxvc
+2014-01-09 21:18:11,501 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:54304
+2014-01-09 21:18:11,825 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54305 for user dfgh
+2014-01-09 21:18:22,128 - WARNING: Room Created: id= 1710278847
+2014-01-09 21:18:28,091 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54347 for user weqr
+2014-01-09 21:18:34,444 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54348 for user qwer
+2014-01-09 21:18:42,261 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54349 for user xcv
+2014-01-09 21:20:57,522 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54345 for user asdf
+2014-01-09 21:20:58,015 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54352 for user ghjk
+2014-01-09 21:20:58,434 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54353 for user dfgh
+2014-01-09 21:20:58,435 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:54353
+2014-01-09 21:20:59,592 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54354 for user vrvre
+2014-01-09 21:21:02,622 - WARNING: Room Created: id= 613766043
+2014-01-09 21:22:44,488 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54362 for user qwr
+2014-01-09 21:22:44,848 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54363 for user asdf
+2014-01-09 21:22:45,405 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54364 for user cfgvbf
+2014-01-09 21:22:45,406 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:54364
+2014-01-09 21:22:45,774 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54365 for user betr
+2014-01-09 21:25:16,237 - WARNING: Room Created: id= 1973971982
+2014-01-09 21:25:27,666 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54422 for user qwer
+2014-01-09 21:42:54,320 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54491 for user aerf
+2014-01-09 21:42:54,776 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54485 for user vr
+2014-01-09 21:42:55,172 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54484 for user wer
+2014-01-09 21:42:55,173 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:54484
+2014-01-09 21:42:55,589 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54482 for user aasdf
+2014-01-09 21:42:59,433 - WARNING: Room Created: id= 1911115620
+2014-01-09 21:43:05,084 - WARNING: Room Created: id= 1255886445
+2014-01-09 21:44:05,392 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54626 for user ergrt
+2014-01-09 21:44:42,688 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54623 for user qwer
+2014-01-09 21:44:43,211 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54624 for user asdf
+2014-01-09 21:44:43,951 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54625 for user zxcv
+2014-01-09 21:44:44,502 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54636 for user weffver
+2014-01-09 21:45:49,375 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54637 for user qwer
+2014-01-09 21:45:49,798 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54638 for user asdf
+2014-01-09 21:45:50,176 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54639 for user ev
+2014-01-09 21:45:50,177 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:54639
+2014-01-09 21:45:50,591 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54640 for user wer
+2014-01-09 21:46:23,890 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54641 for user qwe
+2014-01-09 21:46:27,961 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54642 for user asdf
+2014-01-09 21:46:28,421 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54643 for user asdfew
+2014-01-09 21:46:28,422 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:54643
+2014-01-09 21:46:28,897 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54644 for user werwfv
+2014-01-09 21:46:32,433 - WARNING: Room Created: id= 1653815988
+2014-01-09 21:47:54,242 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54645 for user qer
+2014-01-09 21:47:54,613 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54646 for user asdf
+2014-01-09 21:47:55,062 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54647 for user asdfwe
+2014-01-09 21:47:55,063 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:54647
+2014-01-09 21:47:55,307 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54648 for user wer
+2014-01-09 21:47:59,319 - WARNING: Room Created: id= 1708393172
+2014-01-09 21:49:07,534 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54653 for user qwer
+2014-01-09 21:49:08,174 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54654 for user asdf
+2014-01-09 21:49:08,653 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54655 for user wec
+2014-01-09 21:49:08,654 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:54655
+2014-01-09 21:49:09,101 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54656 for user werver
+2014-01-09 21:49:42,611 - WARNING: Room Created: id= 1381654949
+2014-01-09 21:49:48,106 - WARNING: disconnecting old session for user adf
+2014-01-09 21:49:48,106 - WARNING: handleSessionClosed user for this session is already deleted
+2014-01-09 21:50:29,957 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54659 for user qwer
+2014-01-09 21:50:31,073 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54661 for user adf
+2014-01-09 21:50:31,705 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54662 for user ewr
+2014-01-09 21:50:43,568 - WARNING: disconnecting old session for user asdf
+2014-01-09 21:50:43,569 - WARNING: handleSessionClosed user for this session is already deleted
+2014-01-09 21:51:18,285 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54663 for user qwer
+2014-01-09 21:51:19,954 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54665 for user wer
+2014-01-09 21:51:20,531 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54667 for user asdf
+2014-01-09 21:51:24,057 - WARNING: Room Created: id= 1567192059
+2014-01-09 21:52:33,891 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54668 for user qwer
+2014-01-09 21:52:34,401 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54669 for user asdf
+2014-01-09 21:52:34,969 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54670 for user wer
+2014-01-09 21:52:34,970 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:54670
+2014-01-09 21:52:35,428 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54671 for user werfv
+2014-01-09 21:54:00,628 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54675 for user asdf
+2014-01-09 21:54:21,296 - WARNING: closing idle session /0:0:0:0:0:0:0:1:54679
+2014-01-09 21:54:21,296 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54679 for user adf
+2014-01-09 22:01:13,202 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54676 for user wer
+2014-01-09 22:01:14,395 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54677 for user sdaf
+2014-01-09 22:01:14,395 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:54677
+2014-01-09 22:01:14,851 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54678 for user asdf
+2014-01-09 22:01:18,763 - WARNING: Room Created: id= 663331774
+2014-01-09 22:01:23,464 - WARNING: disconnecting old session for user asdf
+2014-01-09 22:01:23,464 - WARNING: handleSessionClosed user for this session is already deleted
+2014-01-09 22:01:58,313 - WARNING: disconnecting old session for user asdf
+2014-01-09 22:01:58,314 - WARNING: handleSessionClosed user for this session is already deleted
+2014-01-09 22:02:08,153 - WARNING: disconnecting old session for user asdf
+2014-01-09 22:02:08,154 - WARNING: handleSessionClosed user for this session is already deleted
+2014-01-09 22:02:19,571 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54697 for user fwev
+2014-01-09 22:02:35,540 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54698 for user vadsvds
+2014-01-09 22:02:46,544 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54701 for user asdf
+2014-01-09 22:02:47,287 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54702 for user df
+2014-01-09 22:02:47,739 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54704 for user asdqwewq
+2014-01-09 22:07:41,528 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54705 for user qwer
+2014-01-09 22:07:42,019 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54706 for user asdf
+2014-01-09 22:07:42,402 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54707 for user zxcv
+2014-01-09 22:07:42,403 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:54707
+2014-01-09 22:07:42,841 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54708 for user wevvd
+2014-01-09 22:07:48,804 - WARNING: Room Created: id= 106227141
+2014-01-09 22:13:10,089 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54722 for user asdf
+2014-01-09 22:13:10,507 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54724 for user wer
+2014-01-09 22:13:11,303 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54726 for user vd
+2014-01-09 22:13:11,304 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:54726
+2014-01-09 22:13:11,773 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54728 for user weewer
+2014-01-09 22:13:15,393 - WARNING: Room Created: id= 2081113385
+2014-01-09 22:26:49,921 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54819 for user asdfwe
+2014-01-09 22:26:50,973 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54820 for user dvasv
+2014-01-09 22:26:51,440 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54821 for user asdwec
+2014-01-09 22:26:51,441 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:54821
+2014-01-09 22:26:51,882 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54822 for user fwevevwwev
+2014-01-09 22:26:54,882 - WARNING: Room Created: id= 234127905
+2014-01-09 22:27:50,297 - WARNING: closing idle session /0:0:0:0:0:0:0:1:54916
+2014-01-09 22:27:50,297 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54916 for user evwer
+2014-01-09 22:32:08,349 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54913 for user asdf
+2014-01-09 22:32:08,898 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54914 for user wer
+2014-01-09 22:32:08,898 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:54914
+2014-01-09 22:32:09,346 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54915 for user wv
+2014-01-09 22:32:13,613 - WARNING: Room Created: id= 2127822578
+2014-01-09 23:37:30,350 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54952 for user wsev
+2014-01-09 23:37:31,417 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54953 for user ave
+2014-01-09 23:37:31,831 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54954 for user vrvvrf
+2014-01-09 23:37:31,831 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:54954
+2014-01-09 23:37:32,191 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54955 for user rtgerre
+2014-01-09 23:37:35,880 - WARNING: Room Created: id= 45480185
+2014-01-09 23:37:46,246 - INFO: closing IoSession /0:0:0:0:0:0:0:1:55724 for user wefw
+2014-01-09 23:37:53,298 - WARNING: Room Created: id= 1765081160
+2014-01-09 23:42:42,965 - INFO: closing IoSession /0:0:0:0:0:0:0:1:55726 for user asdf
+2014-01-09 23:42:43,436 - INFO: closing IoSession /0:0:0:0:0:0:0:1:55727 for user ewrwe
+2014-01-09 23:43:30,875 - INFO: closing IoSession /0:0:0:0:0:0:0:1:55761 for user adsf
+2014-01-09 23:45:29,624 - INFO: closing IoSession /0:0:0:0:0:0:0:1:55762 for user werq
+2014-01-09 23:45:30,103 - INFO: closing IoSession /0:0:0:0:0:0:0:1:55763 for user rtrtyr
+2014-01-09 23:45:30,543 - INFO: closing IoSession /0:0:0:0:0:0:0:1:55764 for user bfgcv 
+2014-01-09 23:45:30,543 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:55764
+2014-01-09 23:45:31,088 - INFO: closing IoSession /0:0:0:0:0:0:0:1:55765 for user grttbrr
+2014-01-09 23:49:06,069 - INFO: closing IoSession /0:0:0:0:0:0:0:1:55767 for user awer
+2014-01-09 23:49:43,433 - INFO: closing IoSession /0:0:0:0:0:0:0:1:55783 for user dgrf
+2014-01-09 23:55:23,065 - INFO: closing IoSession /0:0:0:0:0:0:0:1:55786 for user asdf
+2014-01-09 23:55:40,227 - INFO: closing IoSession /0:0:0:0:0:0:0:1:55768 for user werwe
+2014-01-09 23:55:40,595 - INFO: closing IoSession /0:0:0:0:0:0:0:1:55769 for user bbfg
+2014-01-09 23:55:40,598 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:55769
+2014-01-09 23:55:41,007 - INFO: closing IoSession /0:0:0:0:0:0:0:1:55770 for user rgrbegr
+2014-01-09 23:55:45,138 - WARNING: Room Created: id= 660575980
+2014-01-09 23:58:31,862 - WARNING: closing idle session /0:0:0:0:0:0:0:1:55796
+2014-01-09 23:58:31,862 - INFO: closing IoSession /0:0:0:0:0:0:0:1:55796 for user adf
+2014-01-10 11:11:18,556 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 11:11:18,567 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 11:11:18,567 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 11:11:18,567 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 11:11:18,567 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 11:11:18,567 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 11:11:18,568 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 11:11:18,568 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 11:11:44,220 - WARNING: Room Created: id= 1388231925
+2014-01-10 11:13:37,298 - WARNING: closing idle session /0:0:0:0:0:0:0:1:56436
+2014-01-10 11:13:37,298 - INFO: closing IoSession /0:0:0:0:0:0:0:1:56436 for user awer
+2014-01-10 11:14:22,644 - INFO: closing IoSession /0:0:0:0:0:0:0:1:56437 for user vvvdfv
+2014-01-10 11:14:22,978 - INFO: closing IoSession /0:0:0:0:0:0:0:1:56438 for user vscv
+2014-01-10 11:14:22,979 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:56438
+2014-01-10 11:14:23,412 - INFO: closing IoSession /0:0:0:0:0:0:0:1:56439 for user qqq
+2014-01-10 11:14:28,214 - WARNING: Room Created: id= 1518653794
+2014-01-10 11:14:43,192 - WARNING: got out of turn request
+2014-01-10 11:14:49,164 - WARNING: got out of turn request
+2014-01-10 11:14:57,394 - WARNING: got out of turn request
+2014-01-10 11:15:21,823 - WARNING: got out of turn request
+2014-01-10 12:09:30,808 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 12:09:30,809 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 12:09:30,809 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 12:09:30,809 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 12:09:30,809 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 12:09:30,809 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 12:09:30,809 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 12:09:30,809 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 12:09:58,861 - WARNING: Room Created: id= 2135166071
+2014-01-10 12:10:33,954 - WARNING: got out of turn request
+2014-01-10 12:11:13,733 - WARNING: got out of turn request
+2014-01-10 12:19:12,870 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 12:19:12,873 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 12:19:12,873 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 12:19:12,873 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 12:19:12,873 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 12:19:12,873 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 12:19:12,873 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 12:19:12,873 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 12:19:18,604 - WARNING: Room Created: id= 789787186
+2014-01-10 12:21:02,611 - WARNING: got out of turn request
+2014-01-10 12:21:07,140 - WARNING: got out of turn request
+2014-01-10 12:21:10,302 - WARNING: got out of turn request
+2014-01-10 12:53:23,415 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 12:53:23,416 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 12:53:23,416 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 12:53:23,416 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 12:53:23,416 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 12:53:23,416 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 12:53:23,416 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 12:53:23,416 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 12:53:43,133 - WARNING: Room Created: id= 1278509544
+2014-01-10 14:27:29,365 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 14:27:29,432 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 14:27:29,432 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 14:27:29,432 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 14:27:29,432 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 14:27:29,433 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 14:27:29,433 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 14:27:29,433 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 14:28:25,851 - WARNING: Room Created: id= 145069402
+2014-01-10 14:29:08,041 - WARNING: got out of turn request
+2014-01-10 14:41:30,517 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49536 for user wwer
+2014-01-10 14:41:31,566 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49537 for user er
+2014-01-10 14:41:32,142 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49538 for user gfd
+2014-01-10 14:41:32,144 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:49538
+2014-01-10 14:41:32,767 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49539 for user ertre
+2014-01-10 14:41:37,610 - WARNING: Room Created: id= 696101504
+2014-01-10 14:44:19,969 - WARNING: closing idle session /0:0:0:0:0:0:0:1:49788
+2014-01-10 14:44:19,969 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49788 for user ssa
+2014-01-10 14:44:45,778 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49787 for user aas
+2014-01-10 14:44:46,671 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49790 for user asas
+2014-01-10 14:44:46,672 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:49790
+2014-01-10 14:44:47,038 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49791 for user ss
+2014-01-10 14:44:50,912 - WARNING: Room Created: id= 1829340623
+2014-01-10 14:45:06,505 - WARNING: closing idle session /0:0:0:0:0:0:0:1:49808
+2014-01-10 14:45:06,505 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49808 for user d
+2014-01-10 14:45:30,175 - WARNING: closing idle session /0:0:0:0:0:0:0:1:49807
+2014-01-10 14:45:30,176 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49807 for user qwr
+2014-01-10 14:46:30,254 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 14:46:30,255 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 14:46:30,255 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 14:46:30,255 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 14:46:30,255 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 14:46:30,255 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 14:46:30,255 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 14:46:30,255 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 14:46:46,470 - WARNING: Room Created: id= 725004697
+2014-01-10 14:46:49,677 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49831 for user df
+2014-01-10 14:47:07,172 - WARNING: closing idle session /0:0:0:0:0:0:0:1:49830
+2014-01-10 14:47:07,172 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49830 for user qwer
+2014-01-10 14:48:41,088 - WARNING: got out of turn request
+2014-01-10 14:49:29,059 - WARNING: got out of turn request
+2014-01-10 14:49:37,689 - WARNING: got out of turn request
+2014-01-10 14:49:45,496 - WARNING: got out of turn request
+2014-01-10 14:49:46,989 - WARNING: got out of turn request
+2014-01-10 14:49:58,333 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49842 for user er
+2014-01-10 14:49:59,491 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49832 for user f
+2014-01-10 14:50:00,079 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49833 for user ee
+2014-01-10 14:50:00,081 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:49833
+2014-01-10 14:50:00,562 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49834 for user ffdf
+2014-01-10 14:50:04,163 - WARNING: Room Created: id= 1179875189
+2014-01-10 14:50:20,174 - WARNING: closing idle session /0:0:0:0:0:0:0:1:49847
+2014-01-10 14:50:20,174 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49847 for user q
+2014-01-10 14:51:37,496 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49848 for user s
+2014-01-10 14:51:37,927 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49849 for user df
+2014-01-10 14:51:37,928 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:49849
+2014-01-10 14:51:38,344 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49850 for user rere
+2014-01-10 14:51:41,821 - WARNING: Room Created: id= 526086896
+2014-01-10 14:51:49,546 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49853 for user w
+2014-01-10 14:51:55,174 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49852 for user q
+2014-01-10 14:51:59,179 - WARNING: Room Created: id= 1174138015
+2014-01-10 14:52:14,015 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49854 for user w
+2014-01-10 14:52:14,532 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49855 for user ert
+2014-01-10 14:52:14,955 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49856 for user rty
+2014-01-10 14:52:15,430 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49857 for user hg
+2014-01-10 14:52:36,175 - WARNING: closing idle session /0:0:0:0:0:0:0:1:49858
+2014-01-10 14:52:36,175 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49858 for user w
+2014-01-10 14:53:30,268 - WARNING: got out of turn request
+2014-01-10 15:00:56,031 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 15:00:56,032 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 15:00:56,032 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 15:00:56,032 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 15:00:56,032 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 15:00:56,032 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 15:00:56,032 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 15:00:56,032 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 15:04:03,448 - WARNING: Room Created: id= 1173174911
+2014-01-10 15:04:21,175 - WARNING: closing idle session /0:0:0:0:0:0:0:1:49910
+2014-01-10 15:04:21,175 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49910 for user qwer
+2014-01-10 15:06:18,293 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49911 for user qw
+2014-01-10 15:06:18,876 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49913 for user q
+2014-01-10 15:06:18,877 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:49913
+2014-01-10 15:06:19,313 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49914 for user w
+2014-01-10 15:06:22,740 - WARNING: Room Created: id= 372547153
+2014-01-10 15:06:38,176 - WARNING: closing idle session /0:0:0:0:0:0:0:1:49922
+2014-01-10 15:06:38,176 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49922 for user q
+2014-01-10 15:06:49,917 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49923 for user w
+2014-01-10 15:06:50,347 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49924 for user e
+2014-01-10 15:06:50,349 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:49924
+2014-01-10 15:06:50,851 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49925 for user r
+2014-01-10 15:06:55,190 - WARNING: Room Created: id= 119549377
+2014-01-10 15:29:07,294 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 15:29:07,297 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 15:29:07,297 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 15:29:07,297 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 15:29:07,297 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 15:29:07,297 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 15:29:07,297 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 15:29:07,297 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 15:29:11,734 - WARNING: Room Created: id= 1239282865
+2014-01-10 15:29:42,511 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49984 for user qwer
+2014-01-10 15:29:42,999 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49985 for user asdf
+2014-01-10 15:29:43,410 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49987 for user wece
+2014-01-10 15:29:43,411 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:49987
+2014-01-10 15:29:43,712 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49989 for user wer
+2014-01-10 15:29:46,945 - WARNING: Room Created: id= 756400602
+2014-01-10 15:30:04,663 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49991 for user qwer
+2014-01-10 15:30:17,440 - WARNING: got out of turn request
+2014-01-10 15:30:25,479 - WARNING: got out of turn request
+2014-01-10 15:30:27,255 - WARNING: got out of turn request
+2014-01-10 15:30:52,306 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49995 for user asdf
+2014-01-10 15:30:52,722 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49996 for user wecv
+2014-01-10 15:30:52,723 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:49996
+2014-01-10 15:30:53,158 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49997 for user qwerwerqweerw
+2014-01-10 15:30:59,597 - WARNING: Room Created: id= 1284532710
+2014-01-10 15:31:03,009 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49999 for user asdf
+2014-01-10 15:31:14,971 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49998 for user qwer
+2014-01-10 15:36:22,947 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50000 for user asdf
+2014-01-10 15:36:23,434 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50001 for user asdv
+2014-01-10 15:36:23,435 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:50001
+2014-01-10 15:36:23,949 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50002 for user d
+2014-01-10 15:36:28,335 - WARNING: Room Created: id= 1364957903
+2014-01-10 15:36:53,347 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50047 for user qwer
+2014-01-10 15:38:43,101 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50048 for user asdf
+2014-01-10 15:38:52,635 - WARNING: got out of turn request
+2014-01-10 15:38:54,581 - WARNING: got out of turn request
+2014-01-10 15:38:57,147 - WARNING: got out of turn request
+2014-01-10 15:38:58,501 - WARNING: got out of turn request
+2014-01-10 15:39:36,508 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50049 for user cxcv
+2014-01-10 15:39:36,510 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:50049
+2014-01-10 15:39:37,055 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50050 for user d
+2014-01-10 15:39:41,233 - WARNING: Room Created: id= 1854751844
+2014-01-10 15:40:00,174 - WARNING: closing idle session /0:0:0:0:0:0:0:1:50058
+2014-01-10 15:40:00,174 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50058 for user qwer
+2014-01-10 15:40:37,582 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50059 for user asdf
+2014-01-10 15:51:07,190 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 15:51:07,191 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 15:51:07,191 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 15:51:07,192 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 15:51:07,192 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 15:51:07,192 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 15:51:07,192 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 15:51:07,192 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 15:51:21,033 - WARNING: Room Created: id= 1506882506
+2014-01-10 15:54:02,507 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50248 for user qwer
+2014-01-10 15:54:03,298 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50249 for user asdf
+2014-01-10 15:54:03,903 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50250 for user vw
+2014-01-10 15:54:03,904 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:50250
+2014-01-10 15:54:04,320 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50251 for user ae
+2014-01-10 15:54:07,477 - WARNING: Room Created: id= 1394837451
+2014-01-10 15:54:47,322 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 15:54:47,325 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 15:54:47,325 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 15:54:47,325 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 15:54:47,325 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 15:54:47,325 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 15:54:47,325 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 15:54:47,325 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 15:54:51,805 - WARNING: Room Created: id= 280237982
+2014-01-10 15:55:08,960 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50282 for user qwe
+2014-01-10 15:56:58,040 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 15:56:58,041 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 15:56:58,041 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 15:56:58,041 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 15:56:58,041 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 15:56:58,041 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 15:56:58,041 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 15:56:58,041 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 15:57:04,075 - WARNING: Room Created: id= 1124851163
+2014-01-10 15:57:16,040 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50316 for user weqr
+2014-01-10 15:58:38,877 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 15:58:38,878 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 15:58:38,878 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 15:58:38,878 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 15:58:38,878 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 15:58:38,878 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 15:58:38,878 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 15:58:38,878 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 15:58:45,646 - WARNING: Room Created: id= 341847732
+2014-01-10 15:59:00,900 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50378 for user qwer
+2014-01-10 16:01:10,858 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 16:01:10,859 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 16:01:10,859 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 16:01:10,859 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 16:01:10,859 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 16:01:10,860 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 16:01:10,860 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 16:01:10,860 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 16:01:19,549 - WARNING: Room Created: id= 1761032153
+2014-01-10 16:02:18,162 - WARNING: got out of turn request
+2014-01-10 16:02:26,220 - WARNING: got out of turn request
+2014-01-10 16:02:27,667 - WARNING: got out of turn request
+2014-01-10 16:03:27,221 - WARNING: got out of turn request
+2014-01-10 16:04:12,243 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 16:04:12,245 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 16:04:12,245 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 16:04:12,245 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 16:04:12,245 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 16:04:12,246 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 16:04:12,246 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 16:04:12,246 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 16:04:16,666 - WARNING: Room Created: id= 2076577390
+2014-01-10 16:05:10,754 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50440 for user aaa
+2014-01-10 16:05:11,427 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50441 for user bbb
+2014-01-10 16:05:11,941 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50442 for user ccc
+2014-01-10 16:05:11,943 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:50442
+2014-01-10 16:05:12,421 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50443 for user ddd
+2014-01-10 16:05:15,828 - WARNING: Room Created: id= 886555387
+2014-01-10 16:05:30,305 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50445 for user wefsa
+2014-01-10 16:06:04,346 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50446 for user ds
+2014-01-10 16:09:42,848 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 16:09:42,850 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 16:09:42,850 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 16:09:42,850 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 16:09:42,850 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 16:09:42,850 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 16:09:42,850 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 16:09:42,851 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 16:09:56,036 - WARNING: Room Created: id= 375929903
+2014-01-10 16:10:12,424 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50518 for user a
+2014-01-10 16:11:42,775 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 16:11:42,776 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 16:11:42,776 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 16:11:42,776 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 16:11:42,776 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 16:11:42,776 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 16:11:42,776 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 16:11:42,776 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 16:11:44,650 - WARNING: Room Created: id= 75772792
+2014-01-10 16:18:29,087 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 16:18:29,088 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 16:18:29,088 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 16:18:29,088 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 16:18:29,088 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 16:18:29,089 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 16:18:29,089 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 16:18:29,089 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 16:18:39,089 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 16:18:39,090 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 16:18:39,090 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 16:18:39,090 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 16:18:39,090 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 16:18:39,090 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 16:18:39,090 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 16:18:39,090 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 16:18:41,424 - WARNING: Room Created: id= 1735749763
+2014-01-10 16:19:39,612 - WARNING: got out of turn request
+2014-01-10 16:19:44,986 - WARNING: got out of turn request
+2014-01-10 16:19:46,589 - WARNING: got out of turn request
+2014-01-10 16:20:11,941 - WARNING: got out of turn request
+2014-01-10 16:23:19,921 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 16:23:19,922 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 16:23:19,922 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 16:23:19,922 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 16:23:19,922 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 16:23:19,922 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 16:23:19,922 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 16:23:19,923 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 16:23:22,596 - WARNING: Room Created: id= 1887304052
+2014-01-10 17:17:09,654 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 17:17:09,663 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 17:17:09,663 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 17:17:09,663 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 17:17:09,663 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 17:17:09,664 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 17:17:09,664 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 17:17:09,664 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 17:17:24,117 - WARNING: Room Created: id= 2084154570
+2014-01-10 17:17:28,765 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49824 for user wer
+2014-01-10 17:20:30,604 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49823 for user a
+2014-01-10 17:20:31,200 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49825 for user ewr
+2014-01-10 17:20:31,810 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49826 for user e
+2014-01-10 17:20:31,811 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:49826
+2014-01-10 17:20:32,390 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49827 for user dee
+2014-01-10 17:20:35,807 - WARNING: Room Created: id= 767635191
+2014-01-10 17:20:51,659 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49835 for user a
+2014-01-10 17:21:23,556 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49836 for user w
+2014-01-10 17:21:24,093 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49837 for user d
+2014-01-10 17:21:24,094 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:49837
+2014-01-10 17:21:24,559 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49838 for user fff
+2014-01-10 17:21:27,720 - WARNING: Room Created: id= 670016766
+2014-01-10 17:21:41,429 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49839 for user we
+2014-01-10 17:26:49,868 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 17:26:49,868 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 17:26:49,868 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 17:26:49,868 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 17:26:49,868 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 17:26:49,869 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 17:26:49,869 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 17:26:49,869 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 17:26:52,219 - WARNING: Room Created: id= 623376866
+2014-01-10 17:28:11,727 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 17:28:11,728 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 17:28:11,728 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 17:28:11,728 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 17:28:11,728 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 17:28:11,728 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 17:28:11,728 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 17:28:11,728 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 17:28:26,270 - WARNING: Room Created: id= 728863651
+2014-01-10 17:29:13,734 - WARNING: got out of turn request
+2014-01-10 17:29:14,890 - WARNING: got out of turn request
+2014-01-10 17:29:24,500 - WARNING: got out of turn request
+2014-01-10 17:30:15,931 - WARNING: got out of turn request
+2014-01-10 17:30:21,073 - WARNING: got out of turn request
+2014-01-10 17:30:50,917 - WARNING: got out of turn request
+2014-01-10 17:31:18,584 - WARNING: got out of turn request
+2014-01-10 17:31:20,819 - WARNING: got out of turn request
+2014-01-10 17:31:22,172 - WARNING: got out of turn request
+2014-01-10 17:35:24,226 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 17:35:24,227 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 17:35:24,227 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 17:35:24,227 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 17:35:24,227 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 17:35:24,227 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 17:35:24,227 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 17:35:24,227 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 17:35:31,820 - WARNING: Room Created: id= 908328571
+2014-01-10 17:35:34,946 - WARNING: Room Created: id= 913134634
+2014-01-10 17:35:37,204 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50110 for user ewr
+2014-01-10 17:35:38,650 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50107 for user wae
+2014-01-10 17:35:58,656 - WARNING: got out of turn request
+2014-01-10 17:37:48,807 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50114 for user fwe
+2014-01-10 17:37:49,232 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50113 for user vcv
+2014-01-10 17:37:49,789 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50112 for user fds
+2014-01-10 17:37:49,790 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:50112
+2014-01-10 17:37:50,355 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50111 for user wer
+2014-01-10 17:37:53,397 - WARNING: Room Created: id= 523442419
+2014-01-10 17:38:42,536 - WARNING: got out of turn request
+2014-01-10 17:38:49,784 - WARNING: got out of turn request
+2014-01-10 17:39:34,894 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 17:39:34,898 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 17:39:34,898 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 17:39:34,898 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 17:39:34,898 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 17:39:34,898 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 17:39:34,898 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 17:39:34,899 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 17:39:40,920 - WARNING: Room Created: id= 734940865
+2014-01-10 17:39:50,787 - WARNING: disconnecting old session for user xcv
+2014-01-10 17:39:50,789 - WARNING: handleSessionClosed user for this session is already deleted
+2014-01-10 17:40:01,594 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50171 for user asdf
+2014-01-10 17:40:02,043 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50172 for user sdf
+2014-01-10 17:40:03,067 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50174 for user xcv
+2014-01-10 17:49:49,186 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 17:49:49,187 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 17:49:49,187 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 17:49:49,187 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 17:49:49,187 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 17:49:49,187 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 17:49:49,187 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 17:49:49,187 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 17:49:55,257 - WARNING: Room Created: id= 1590636027
+2014-01-10 17:50:27,686 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50217 for user adf
+2014-01-10 17:50:28,526 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50218 for user ewr
+2014-01-10 17:50:28,995 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50219 for user cvb
+2014-01-10 17:50:28,996 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:50219
+2014-01-10 17:50:29,434 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50221 for user fer
+2014-01-10 17:50:32,507 - WARNING: Room Created: id= 1185123563
+2014-01-10 17:52:26,371 - WARNING: closing idle session /0:0:0:0:0:0:0:1:50223
+2014-01-10 17:52:26,371 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50223 for user asdf
+2014-01-10 17:57:35,966 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50224 for user wer
+2014-01-10 17:57:36,391 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50225 for user btr
+2014-01-10 17:57:36,394 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:50225
+2014-01-10 17:57:37,548 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50226 for user aervr
+2014-01-10 17:57:41,468 - WARNING: Room Created: id= 1899329387
+2014-01-10 18:05:24,642 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50271 for user q
+2014-01-10 18:05:25,091 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50272 for user w
+2014-01-10 18:05:25,417 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50275 for user d
+2014-01-10 18:05:25,418 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:50275
+2014-01-10 18:05:25,774 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50276 for user c
+2014-01-10 18:05:29,383 - WARNING: Room Created: id= 976777276
+2014-01-10 18:06:45,709 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50292 for user qwer
+2014-01-10 18:06:46,327 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50293 for user asdf
+2014-01-10 18:06:46,671 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50294 for user zxcv
+2014-01-10 18:06:46,672 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:50294
+2014-01-10 18:06:47,116 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50296 for user dfvr
+2014-01-10 18:06:50,226 - WARNING: Room Created: id= 597535057
+2014-01-10 18:06:56,329 - WARNING: disconnecting old session for user wer
+2014-01-10 18:06:56,329 - WARNING: handleSessionClosed user for this session is already deleted
+2014-01-10 18:07:04,889 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50298 for user asdf
+2014-01-10 18:07:06,772 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50300 for user wer
+2014-01-10 18:07:37,217 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50302 for user asdf
+2014-01-10 18:07:38,245 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50303 for user sdf
+2014-01-10 18:07:38,647 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50304 for user sdfs
+2014-01-10 18:07:39,267 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50305 for user sdfew
+2014-01-10 18:22:10,628 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50306 for user asdf
+2014-01-10 18:22:11,136 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50307 for user wer
+2014-01-10 18:22:11,544 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50308 for user wers
+2014-01-10 18:22:11,545 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:50308
+2014-01-10 18:22:11,954 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50309 for user c
+2014-01-10 18:22:15,782 - WARNING: Room Created: id= 264475928
+2014-01-10 19:11:02,141 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50375 for user q
+2014-01-10 19:11:02,837 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50376 for user df
+2014-01-10 19:12:05,866 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50855 for user q
+2014-01-10 19:12:06,531 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50856 for user w
+2014-01-10 19:12:06,901 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50857 for user e
+2014-01-10 19:12:06,902 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:50857
+2014-01-10 19:12:07,294 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50858 for user r
+2014-01-10 19:12:11,409 - WARNING: Room Created: id= 2074122758
+2014-01-10 19:13:39,533 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50864 for user q
+2014-01-10 19:13:40,494 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50865 for user w
+2014-01-10 19:13:41,163 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50866 for user e
+2014-01-10 19:13:41,164 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:50866
+2014-01-10 19:13:41,699 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50867 for user r
+2014-01-10 19:13:45,126 - WARNING: Room Created: id= 2074752573
+2014-01-10 19:14:48,729 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50869 for user q
+2014-01-10 19:14:49,433 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50870 for user w
+2014-01-10 19:14:49,926 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50871 for user e
+2014-01-10 19:14:49,927 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:50871
+2014-01-10 19:14:50,776 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50872 for user r
+2014-01-10 19:14:58,317 - WARNING: Room Created: id= 2088750473
+2014-01-10 19:15:00,385 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50875 for user e
+2014-01-10 19:17:21,814 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50874 for user q
+2014-01-10 19:17:22,191 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50876 for user ev
+2014-01-10 19:17:22,698 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50877 for user er
+2014-01-10 19:17:22,700 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:50877
+2014-01-10 19:17:23,219 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50878 for user err
+2014-01-10 19:17:26,736 - WARNING: Room Created: id= 2040595627
+2014-01-10 19:25:11,409 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50902 for user q
+2014-01-10 19:25:12,228 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50903 for user w
+2014-01-10 19:25:12,753 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50904 for user c
+2014-01-10 19:25:12,754 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:50904
+2014-01-10 19:25:13,339 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50905 for user fd
+2014-01-10 19:25:19,455 - WARNING: Room Created: id= 1807627824
+2014-01-10 19:33:54,768 - WARNING: got out of turn request
+2014-01-10 19:33:55,611 - WARNING: got out of turn request
+2014-01-10 19:33:56,303 - WARNING: got out of turn request
+2014-01-10 19:55:03,429 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50923 for user wer
+2014-01-10 19:55:04,122 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50925 for user a
+2014-01-10 19:55:04,839 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50927 for user s
+2014-01-10 19:55:04,840 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:50927
+2014-01-10 19:55:05,282 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50929 for user d
+2014-01-10 19:55:09,555 - WARNING: Room Created: id= 1316590643
+2014-01-10 19:56:20,330 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 19:56:20,332 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 19:56:20,332 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 19:56:20,332 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 19:56:20,332 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 19:56:20,332 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 19:56:20,333 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 19:56:20,333 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 19:56:28,645 - WARNING: Room Created: id= 2024051554
+2014-01-10 19:57:04,262 - WARNING: got out of turn request
+2014-01-10 19:59:04,244 - INFO: closing IoSession /0:0:0:0:0:0:0:1:51331 for user q
+2014-01-10 19:59:04,640 - INFO: closing IoSession /0:0:0:0:0:0:0:1:51332 for user w
+2014-01-10 19:59:05,245 - INFO: closing IoSession /0:0:0:0:0:0:0:1:51334 for user dfd
+2014-01-10 19:59:05,247 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:51334
+2014-01-10 19:59:06,352 - INFO: closing IoSession /0:0:0:0:0:0:0:1:51333 for user c
+2014-01-10 19:59:09,444 - WARNING: Room Created: id= 1974846766
+2014-01-10 20:04:52,033 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 20:04:52,034 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 20:04:52,034 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 20:04:52,034 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 20:04:52,034 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 20:04:52,034 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 20:04:52,034 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 20:04:52,034 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 20:05:00,553 - WARNING: Room Created: id= 867946435
+2014-01-10 20:07:42,033 - WARNING: got out of turn request
+2014-01-10 20:07:45,731 - WARNING: got out of turn request
+2014-01-10 20:07:49,085 - WARNING: got out of turn request
+2014-01-10 20:14:26,812 - INFO: closing IoSession /0:0:0:0:0:0:0:1:51406 for user asdf
+2014-01-10 20:14:28,987 - INFO: closing IoSession /0:0:0:0:0:0:0:1:51407 for user wqer
+2014-01-10 20:14:29,775 - INFO: closing IoSession /0:0:0:0:0:0:0:1:51408 for user xcv
+2014-01-10 20:14:29,776 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:51408
+2014-01-10 20:14:30,462 - INFO: closing IoSession /0:0:0:0:0:0:0:1:51424 for user aaa
+2014-01-10 20:14:39,155 - WARNING: Room Created: id= 771096042
+2014-01-10 20:18:00,011 - INFO: closing IoSession /0:0:0:0:0:0:0:1:51531 for user a
+2014-01-10 20:18:00,509 - INFO: closing IoSession /0:0:0:0:0:0:0:1:51532 for user s
+2014-01-10 20:18:01,000 - INFO: closing IoSession /0:0:0:0:0:0:0:1:51533 for user c
+2014-01-10 20:18:01,001 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:51533
+2014-01-10 20:18:01,503 - INFO: closing IoSession /0:0:0:0:0:0:0:1:51534 for user wdsf
+2014-01-10 20:18:05,794 - WARNING: Room Created: id= 294887
+2014-01-10 20:23:03,379 - WARNING: got out of turn request
+2014-01-10 20:23:15,704 - WARNING: got out of turn request
+2014-01-10 20:23:31,806 - WARNING: got out of turn request
+2014-01-10 20:26:29,093 - WARNING: got out of turn request
+2014-01-10 20:26:34,985 - WARNING: got out of turn request
+2014-01-10 20:35:34,944 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 20:35:34,945 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 20:35:34,945 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 20:35:34,945 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 20:35:34,945 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 20:35:34,945 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 20:35:34,946 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 20:35:34,946 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 20:35:44,221 - WARNING: Room Created: id= 560813888
+2014-01-10 20:47:04,692 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 20:47:04,700 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 20:47:04,700 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 20:47:04,701 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 20:47:04,701 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 20:47:04,701 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 20:47:04,701 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 20:47:04,701 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-10 20:47:10,502 - WARNING: Room Created: id= 109092218
+2014-01-10 20:48:13,188 - INFO: closing IoSession /0:0:0:0:0:0:0:1:51956 for user dsfa
+2014-01-11 10:14:58,515 - WARNING: closing idle session /0:0:0:0:0:0:0:1:51954
+2014-01-11 10:14:58,516 - INFO: closing IoSession /0:0:0:0:0:0:0:1:51954 for user er
+2014-01-11 10:14:58,533 - WARNING: closing idle session /0:0:0:0:0:0:0:1:51955
+2014-01-11 10:14:58,534 - INFO: closing IoSession /0:0:0:0:0:0:0:1:51955 for user c
+2014-01-11 10:14:58,535 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:51955
+2014-01-11 10:14:58,560 - WARNING: closing idle session /0:0:0:0:0:0:0:1:51953
+2014-01-11 10:14:58,561 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:51953
+2014-01-11 10:14:58,561 - INFO: closing IoSession /0:0:0:0:0:0:0:1:51953 for user adsf
+2014-01-11 10:48:09,665 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-11 10:48:09,666 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-11 10:48:09,668 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-11 10:48:09,668 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-11 10:48:09,668 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-11 10:48:09,668 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-11 10:48:09,668 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-11 10:48:09,668 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-11 11:31:31,458 - WARNING: Room Created: id= 1515570724
+2014-01-11 11:32:30,740 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-11 11:32:30,743 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-11 11:32:30,743 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-11 11:32:30,743 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-11 11:32:30,743 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-11 11:32:30,743 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-11 11:32:30,743 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-11 11:32:30,743 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-11 11:32:37,329 - WARNING: Room Created: id= 897069948
+2014-01-11 11:33:19,554 - INFO: closing IoSession /0:0:0:0:0:0:0:1:52930 for user q
+2014-01-11 11:33:20,026 - INFO: closing IoSession /0:0:0:0:0:0:0:1:52931 for user w
+2014-01-11 11:33:20,843 - INFO: closing IoSession /0:0:0:0:0:0:0:1:52932 for user e
+2014-01-11 11:33:20,844 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:52932
+2014-01-11 11:33:21,438 - INFO: closing IoSession /0:0:0:0:0:0:0:1:52933 for user r
+2014-01-11 11:33:25,284 - WARNING: Room Created: id= 1673207437
+2014-01-11 11:37:18,175 - INFO: closing IoSession /0:0:0:0:0:0:0:1:52935 for user qwer
+2014-01-11 11:37:18,927 - INFO: closing IoSession /0:0:0:0:0:0:0:1:52936 for user wer
+2014-01-11 11:37:19,483 - INFO: closing IoSession /0:0:0:0:0:0:0:1:52937 for user er
+2014-01-11 11:37:19,484 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:52937
+2014-01-11 11:37:19,873 - INFO: closing IoSession /0:0:0:0:0:0:0:1:52938 for user r
+2014-01-11 11:37:22,564 - WARNING: Room Created: id= 467650099
+2014-01-11 11:38:26,992 - WARNING: got out of turn request
+2014-01-11 12:00:31,414 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-11 12:00:31,415 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-11 12:00:31,415 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-11 12:00:31,415 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-11 12:00:31,415 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-11 12:00:31,415 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-11 12:00:31,415 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-11 12:00:31,415 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-11 12:00:59,044 - WARNING: Room Created: id= 1344911052
+2014-01-11 12:01:50,583 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53533 for user qwer
+2014-01-11 12:01:51,062 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53534 for user er
+2014-01-11 12:01:51,478 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53535 for user ds
+2014-01-11 12:01:51,479 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:53535
+2014-01-11 12:01:51,839 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53536 for user ewre
+2014-01-11 12:01:55,364 - WARNING: Room Created: id= 1757967508
+2014-01-11 12:02:51,379 - WARNING: closing idle session /0:0:0:0:0:0:0:1:53539
+2014-01-11 12:02:51,379 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53539 for user qw
+2014-01-11 12:11:01,117 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53540 for user asd
+2014-01-11 12:11:01,694 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53541 for user sdf
+2014-01-11 12:11:01,699 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:53541
+2014-01-11 12:11:02,099 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53543 for user df
+2014-01-11 12:11:07,678 - WARNING: Room Created: id= 419969504
+2014-01-11 12:11:37,380 - WARNING: closing idle session /0:0:0:0:0:0:0:1:53628
+2014-01-11 12:11:37,380 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53628 for user asdf
+2014-01-11 12:16:22,389 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53629 for user sd
+2014-01-11 12:16:22,846 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53631 for user w
+2014-01-11 12:16:22,847 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:53631
+2014-01-11 12:16:23,364 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53632 for user e
+2014-01-11 12:16:27,338 - WARNING: Room Created: id= 1611344254
+2014-01-11 12:16:46,377 - WARNING: closing idle session /0:0:0:0:0:0:0:1:53727
+2014-01-11 12:16:46,377 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53727 for user q
+2014-01-11 12:17:31,003 - WARNING: got out of turn request
+2014-01-11 12:17:49,670 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53728 for user s
+2014-01-11 12:17:50,079 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53729 for user c
+2014-01-11 12:17:50,080 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:53729
+2014-01-11 12:17:50,676 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53731 for user wer
+2014-01-11 12:17:54,242 - WARNING: Room Created: id= 1135703557
+2014-01-11 12:18:03,107 - WARNING: disconnecting old session for user c
+2014-01-11 12:18:03,108 - WARNING: handleSessionClosed user for this session is already deleted
+2014-01-11 12:19:53,335 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53734 for user q
+2014-01-11 12:19:53,817 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53738 for user ertter
+2014-01-11 12:19:54,584 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53736 for user sdf
+2014-01-11 12:19:54,585 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:53736
+2014-01-11 12:19:54,965 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53737 for user c
+2014-01-11 12:19:57,891 - WARNING: Room Created: id= 2041470592
+2014-01-11 12:21:50,378 - WARNING: closing idle session /0:0:0:0:0:0:0:1:53742
+2014-01-11 12:21:50,378 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53742 for user q
+2014-01-11 12:28:52,547 - WARNING: got out of turn request
+2014-01-11 12:28:54,104 - WARNING: got out of turn request
+2014-01-11 12:44:16,614 - WARNING: Room Created: id= 964368168
+2014-01-11 12:47:33,369 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53912 for user qq
+2014-01-11 12:47:36,028 - WARNING: Room Created: id= 640015936
+2014-01-11 12:52:40,169 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53929 for user ert
+2014-01-11 13:40:08,188 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54230 for user jh
+2014-01-11 13:40:30,994 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54238 for user cvx
+2014-01-11 13:41:28,411 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54329 for user cvxxvc
+2014-01-11 13:41:36,922 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53745 for user w
+2014-01-11 13:41:39,017 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54331 for user cc
+2014-01-11 13:44:32,217 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-11 13:44:32,218 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-11 13:44:32,218 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-11 13:44:32,218 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-11 13:44:32,218 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-11 13:44:32,218 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-11 13:44:32,218 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-11 13:44:32,218 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-11 13:44:43,645 - WARNING: Room Created: id= 611603347
+2014-01-11 13:44:50,010 - WARNING: got out of turn request
+2014-01-11 13:44:53,444 - WARNING: got out of turn request
+2014-01-11 14:09:06,198 - WARNING: got out of turn request
+2014-01-11 14:13:24,565 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54358 for user w
+2014-01-11 14:18:15,952 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54620 for user asdf
+2014-01-11 14:18:50,721 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54647 for user adsf
+2014-01-11 14:19:02,614 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54649 for user asdf
+2014-01-11 14:19:35,898 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54650 for user wer
+2014-01-11 14:23:11,843 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54651 for user asdf
+2014-01-11 14:26:19,720 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54742 for user d
+2014-01-11 14:26:25,210 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54752 for user adf
+2014-01-11 14:26:56,379 - WARNING: closing idle session /0:0:0:0:0:0:0:1:54753
+2014-01-11 14:26:56,379 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54753 for user aefw
+2014-01-11 14:27:50,381 - WARNING: closing idle session /0:0:0:0:0:0:0:1:54754
+2014-01-11 14:27:50,381 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54754 for user dasf
+2014-01-11 14:55:42,126 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54756 for user asd
+2014-01-11 14:56:26,472 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54850 for user af
+2014-01-11 15:08:02,077 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54853 for user asdf
+2014-01-11 15:08:12,957 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54868 for user asdf
+2014-01-11 15:08:51,668 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54872 for user sdaf
+2014-01-11 15:10:32,441 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-11 15:10:32,443 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-11 15:10:32,443 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-11 15:10:32,444 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-11 15:10:32,444 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-11 15:10:32,444 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-11 15:10:32,444 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-11 15:10:32,444 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-11 15:10:36,102 - WARNING: Room Created: id= 1950372510
+2014-01-11 15:10:57,341 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-11 15:10:57,342 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-11 15:10:57,342 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-11 15:10:57,342 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-11 15:10:57,342 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-11 15:10:57,342 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-11 15:10:57,342 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-11 15:10:57,342 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-11 15:11:04,971 - WARNING: Room Created: id= 1482411601
+2014-01-11 15:12:41,731 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54919 for user asdf
+2014-01-11 15:12:46,357 - WARNING: Room Created: id= 508071608
+2014-01-11 15:48:10,071 - WARNING: got out of turn request
+2014-01-11 15:48:12,025 - WARNING: got out of turn request
+2014-01-11 15:49:14,086 - WARNING: got out of turn request
+2014-01-11 15:49:18,418 - WARNING: got out of turn request
+2014-01-11 15:49:25,456 - WARNING: got out of turn request
+2014-01-11 15:49:29,743 - WARNING: got out of turn request
+2014-01-11 17:52:07,706 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-11 17:52:07,709 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-11 17:52:07,709 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-11 17:52:07,709 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-11 17:52:07,709 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-11 17:52:07,709 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-11 17:52:07,709 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-11 17:52:07,709 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-11 17:52:21,285 - WARNING: Room Created: id= 487497254
+2014-01-11 17:52:46,621 - INFO: closing IoSession /0:0:0:0:0:0:0:1:56754 for user asd
+2014-01-11 17:53:17,170 - INFO: closing IoSession /0:0:0:0:0:0:0:1:56755 for user qwerewqrqwerwqe
+2014-01-11 17:54:00,884 - WARNING: got out of turn request
+2014-01-11 17:59:31,304 - INFO: closing IoSession /0:0:0:0:0:0:0:1:56750 for user a
+2014-01-11 17:59:32,216 - INFO: closing IoSession /0:0:0:0:0:0:0:1:56751 for user c
+2014-01-11 17:59:32,816 - INFO: closing IoSession /0:0:0:0:0:0:0:1:56753 for user d
+2014-01-11 17:59:33,363 - INFO: closing IoSession /0:0:0:0:0:0:0:1:56756 for user wqr
+2014-01-11 18:00:35,557 - INFO: closing IoSession /0:0:0:0:0:0:0:1:56787 for user aqwe
+2014-01-11 18:00:36,048 - INFO: closing IoSession /0:0:0:0:0:0:0:1:56788 for user wer
+2014-01-11 18:00:36,509 - INFO: closing IoSession /0:0:0:0:0:0:0:1:56790 for user fds
+2014-01-11 18:00:36,997 - INFO: closing IoSession /0:0:0:0:0:0:0:1:56791 for user vvc
+2014-01-11 18:10:20,450 - INFO: closing IoSession /0:0:0:0:0:0:0:1:56793 for user w
+2014-01-11 18:10:20,863 - INFO: closing IoSession /0:0:0:0:0:0:0:1:56794 for user c
+2014-01-11 18:10:21,303 - INFO: closing IoSession /0:0:0:0:0:0:0:1:56795 for user as
+2014-01-11 18:10:21,717 - INFO: closing IoSession /0:0:0:0:0:0:0:1:56797 for user sd
+2014-01-11 18:10:57,641 - WARNING: got out of turn request
+2014-01-11 18:11:00,032 - WARNING: got out of turn request
+2014-01-11 18:12:22,227 - WARNING: got out of turn request
+2014-01-11 18:12:50,862 - INFO: closing IoSession /0:0:0:0:0:0:0:1:56816 for user wer
+2014-01-11 18:13:05,879 - WARNING: got out of turn request
+2014-01-11 18:13:24,420 - INFO: closing IoSession /0:0:0:0:0:0:0:1:56820 for user fdf
+2014-01-11 18:13:24,816 - INFO: closing IoSession /0:0:0:0:0:0:0:1:56819 for user werrweewr
+2014-01-11 18:13:25,276 - INFO: closing IoSession /0:0:0:0:0:0:0:1:56818 for user w
+2014-01-11 18:13:25,925 - INFO: closing IoSession /0:0:0:0:0:0:0:1:56822 for user sdf
+2014-01-11 21:46:01,784 - WARNING: got out of turn request
+2014-01-11 21:46:04,130 - WARNING: got out of turn request
+2014-01-11 21:46:27,588 - INFO: closing IoSession /0:0:0:0:0:0:0:1:56823 for user asdf
+2014-01-11 21:46:35,543 - WARNING: got out of turn request
+2014-01-11 21:46:37,090 - WARNING: got out of turn request
+2014-01-11 22:16:41,023 - INFO: closing IoSession /0:0:0:0:0:0:0:1:58194 for user dfa
+2014-01-11 22:18:00,900 - WARNING: got out of turn request
+2014-01-11 22:18:03,975 - WARNING: got out of turn request
+2014-01-11 22:38:47,654 - INFO: closing IoSession /0:0:0:0:0:0:0:1:58380 for user sd
+2014-01-11 22:38:56,330 - WARNING: Room Created: id= 1336256314
+2014-01-11 22:39:08,677 - WARNING: Room Created: id= 1796362198
+2014-01-11 22:39:09,136 - WARNING: Room Created: id= 1108355071
+2014-01-11 22:39:09,292 - WARNING: Room Created: id= 45618735
+2014-01-11 22:39:09,448 - WARNING: Room Created: id= 218554845
+2014-01-11 22:39:09,611 - WARNING: Room Created: id= 1284348990
+2014-01-11 22:40:24,622 - INFO: closing IoSession /0:0:0:0:0:0:0:1:58546 for user dfg
+2014-01-11 22:40:56,079 - INFO: closing IoSession /0:0:0:0:0:0:0:1:58551 for user dsg
+2014-01-11 22:43:13,538 - INFO: closing IoSession /0:0:0:0:0:0:0:1:58577 for user adf
+2014-01-11 22:43:52,706 - INFO: closing IoSession /0:0:0:0:0:0:0:1:58584 for user asdf
+2014-01-11 22:44:51,809 - INFO: closing IoSession /0:0:0:0:0:0:0:1:58585 for user asdf
+2014-01-11 22:52:03,320 - INFO: closing IoSession /0:0:0:0:0:0:0:1:58586 for user asdf
+2014-01-11 22:53:44,124 - INFO: closing IoSession /0:0:0:0:0:0:0:1:58600 for user sdf
+2014-01-11 22:54:41,564 - INFO: closing IoSession /0:0:0:0:0:0:0:1:58602 for user asdfwe
+2014-01-11 22:55:08,174 - INFO: closing IoSession /0:0:0:0:0:0:0:1:58603 for user asdf
+2014-01-11 22:55:44,433 - INFO: closing IoSession /0:0:0:0:0:0:0:1:58608 for user aewf
+2014-01-11 22:57:14,660 - INFO: closing IoSession /0:0:0:0:0:0:0:1:58620 for user asd
+2014-01-11 22:57:42,673 - INFO: closing IoSession /0:0:0:0:0:0:0:1:58626 for user wer
+2014-01-11 22:57:50,700 - INFO: closing IoSession /0:0:0:0:0:0:0:1:58628 for user aewrf
+2014-01-11 22:59:34,477 - INFO: closing IoSession /0:0:0:0:0:0:0:1:58639 for user fdsa
+2014-01-11 23:00:30,365 - INFO: closing IoSession /0:0:0:0:0:0:0:1:58640 for user asdf
+2014-01-11 23:00:46,393 - WARNING: closing idle session /0:0:0:0:0:0:0:1:58642
+2014-01-11 23:00:46,393 - INFO: closing IoSession /0:0:0:0:0:0:0:1:58642 for user fsd
+2014-01-11 23:03:21,013 - INFO: closing IoSession /0:0:0:0:0:0:0:1:58643 for user few
+2014-01-11 23:03:41,966 - INFO: closing IoSession /0:0:0:0:0:0:0:1:58645 for user asdf
+2014-01-11 23:04:59,650 - INFO: closing IoSession /0:0:0:0:0:0:0:1:58647 for user wer
+2014-01-11 23:14:58,165 - INFO: closing IoSession /0:0:0:0:0:0:0:1:58651 for user asdf
+2014-01-11 23:58:52,021 - WARNING: Room Created: id= 1137192369
+2014-01-12 00:22:51,375 - WARNING: closing idle session /0:0:0:0:0:0:0:1:58835
+2014-01-12 00:22:51,390 - INFO: closing IoSession /0:0:0:0:0:0:0:1:58835 for user sdf
+2014-01-12 10:01:21,616 - WARNING: closing idle session /0:0:0:0:0:0:0:1:56824
+2014-01-12 10:01:21,617 - INFO: closing IoSession /0:0:0:0:0:0:0:1:56824 for user zxv
+2014-01-12 10:32:47,696 - INFO: closing IoSession /0:0:0:0:0:0:0:1:60789 for user wer
+2014-01-12 11:04:46,733 - INFO: closing IoSession /0:0:0:0:0:0:0:1:61016 for user asdf
+2014-01-12 11:06:03,298 - INFO: closing IoSession /0:0:0:0:0:0:0:1:61278 for user dsf
+2014-01-12 11:20:49,658 - INFO: closing IoSession /0:0:0:0:0:0:0:1:56825 for user e
+2014-01-12 11:20:51,119 - INFO: closing IoSession /0:0:0:0:0:0:0:1:61329 for user sdf
+2014-01-12 11:20:53,501 - INFO: closing IoSession /0:0:0:0:0:0:0:1:56826 for user w
+2014-01-12 11:21:00,807 - INFO: closing IoSession /0:0:0:0:0:0:0:1:61574 for user sdaf
+2014-01-12 11:30:27,827 - INFO: closing IoSession /0:0:0:0:0:0:0:1:61575 for user wer
+2014-01-12 11:31:01,120 - INFO: closing IoSession /0:0:0:0:0:0:0:1:61622 for user afd
+2014-01-12 11:31:49,927 - INFO: closing IoSession /0:0:0:0:0:0:0:1:61624 for user adsf
+2014-01-12 11:32:00,559 - INFO: closing IoSession /0:0:0:0:0:0:0:1:61627 for user dfa
+2014-01-12 11:37:44,546 - INFO: closing IoSession /0:0:0:0:0:0:0:1:61628 for user wer
+2014-01-12 11:41:17,671 - WARNING: got out of turn request
+2014-01-12 11:56:31,819 - INFO: closing IoSession /0:0:0:0:0:0:0:1:61767 for user adsf
+2014-01-12 11:56:32,963 - INFO: closing IoSession /0:0:0:0:0:0:0:1:61773 for user fds
+2014-01-12 11:56:33,380 - INFO: closing IoSession /0:0:0:0:0:0:0:1:61774 for user vc
+2014-01-12 11:56:34,015 - INFO: closing IoSession /0:0:0:0:0:0:0:1:61776 for user ffff
+2014-01-12 11:56:46,764 - WARNING: disconnecting old session for user f
+2014-01-12 11:56:46,764 - WARNING: handleSessionClosed user for this session is already deleted
+2014-01-12 11:57:15,306 - INFO: closing IoSession /0:0:0:0:0:0:0:1:61963 for user dfg
+2014-01-12 11:57:15,832 - INFO: closing IoSession /0:0:0:0:0:0:0:1:61964 for user cv
+2014-01-12 11:57:16,428 - INFO: closing IoSession /0:0:0:0:0:0:0:1:61967 for user feewfwe
+2014-01-12 11:57:16,926 - INFO: closing IoSession /0:0:0:0:0:0:0:1:61966 for user f
+2014-01-12 12:27:17,072 - WARNING: got out of turn request
+2014-01-12 12:27:19,126 - INFO: closing IoSession /0:0:0:0:0:0:0:1:61968 for user wer
+2014-01-12 12:27:20,190 - INFO: closing IoSession /0:0:0:0:0:0:0:1:61969 for user cv
+2014-01-12 12:27:20,617 - INFO: closing IoSession /0:0:0:0:0:0:0:1:61970 for user ve
+2014-01-12 12:27:21,153 - INFO: closing IoSession /0:0:0:0:0:0:0:1:61971 for user v
+2014-01-12 12:28:44,107 - INFO: closing IoSession /0:0:0:0:0:0:0:1:62519 for user wer
+2014-01-12 12:28:44,532 - INFO: closing IoSession /0:0:0:0:0:0:0:1:62520 for user sdf
+2014-01-12 12:28:45,029 - INFO: closing IoSession /0:0:0:0:0:0:0:1:62521 for user f
+2014-01-12 12:28:45,377 - INFO: closing IoSession /0:0:0:0:0:0:0:1:62522 for user c
+2014-01-12 12:31:02,895 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 12:31:02,896 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 12:31:02,896 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 12:31:02,896 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 12:31:02,896 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 12:31:02,897 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 12:31:02,897 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 12:31:02,897 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 12:31:16,764 - WARNING: Room Created: id= 89807410
+2014-01-12 12:31:41,159 - WARNING: got out of turn request
+2014-01-12 12:31:49,446 - WARNING: got out of turn request
+2014-01-12 12:36:13,006 - WARNING: got out of turn request
+2014-01-12 12:36:13,006 - WARNING: got out of turn request
+2014-01-12 12:36:13,006 - WARNING: got out of turn request
+2014-01-12 12:49:19,527 - INFO: closing IoSession /0:0:0:0:0:0:0:1:62596 for user vvv
+2014-01-12 12:49:20,485 - INFO: closing IoSession /0:0:0:0:0:0:0:1:62595 for user fwewew
+2014-01-12 12:49:21,168 - INFO: closing IoSession /0:0:0:0:0:0:0:1:62592 for user wer
+2014-01-12 12:49:21,666 - INFO: closing IoSession /0:0:0:0:0:0:0:1:62591 for user qwer
+2014-01-12 12:59:35,992 - WARNING: got out of turn request
+2014-01-12 12:59:37,575 - WARNING: got out of turn request
+2014-01-12 13:02:40,335 - INFO: closing IoSession /0:0:0:0:0:0:0:1:62946 for user qwer
+2014-01-12 13:02:40,761 - INFO: closing IoSession /0:0:0:0:0:0:0:1:62947 for user asdf
+2014-01-12 13:02:41,202 - INFO: closing IoSession /0:0:0:0:0:0:0:1:62948 for user df
+2014-01-12 13:02:41,631 - INFO: closing IoSession /0:0:0:0:0:0:0:1:62949 for user f
+2014-01-12 13:05:37,483 - INFO: closing IoSession /0:0:0:0:0:0:0:1:63079 for user weqr
+2014-01-12 13:05:38,556 - INFO: closing IoSession /0:0:0:0:0:0:0:1:63080 for user asdf
+2014-01-12 13:05:39,639 - INFO: closing IoSession /0:0:0:0:0:0:0:1:63082 for user f
+2014-01-12 13:05:40,756 - INFO: closing IoSession /0:0:0:0:0:0:0:1:63083 for user ss
+2014-01-12 13:07:39,592 - INFO: closing IoSession /0:0:0:0:0:0:0:1:63101 for user e
+2014-01-12 13:07:40,285 - INFO: closing IoSession /0:0:0:0:0:0:0:1:63100 for user c
+2014-01-12 13:07:40,639 - INFO: closing IoSession /0:0:0:0:0:0:0:1:63099 for user w
+2014-01-12 13:07:41,727 - INFO: closing IoSession /0:0:0:0:0:0:0:1:63098 for user q
+2014-01-12 13:10:07,970 - INFO: closing IoSession /0:0:0:0:0:0:0:1:63103 for user qwer
+2014-01-12 13:10:08,567 - INFO: closing IoSession /0:0:0:0:0:0:0:1:63104 for user wer
+2014-01-12 13:10:09,579 - INFO: closing IoSession /0:0:0:0:0:0:0:1:63105 for user c
+2014-01-12 13:10:11,275 - INFO: closing IoSession /0:0:0:0:0:0:0:1:63106 for user d
+2014-01-12 13:11:27,678 - INFO: closing IoSession /0:0:0:0:0:0:0:1:63156 for user c
+2014-01-12 13:11:28,379 - INFO: closing IoSession /0:0:0:0:0:0:0:1:63155 for user s
+2014-01-12 13:11:29,216 - INFO: closing IoSession /0:0:0:0:0:0:0:1:63154 for user wer
+2014-01-12 13:11:29,851 - INFO: closing IoSession /0:0:0:0:0:0:0:1:63153 for user asdf
+2014-01-12 13:13:49,674 - INFO: closing IoSession /0:0:0:0:0:0:0:1:63162 for user e
+2014-01-12 13:13:50,266 - INFO: closing IoSession /0:0:0:0:0:0:0:1:63161 for user fxdgsdf
+2014-01-12 13:13:50,829 - INFO: closing IoSession /0:0:0:0:0:0:0:1:63160 for user wer
+2014-01-12 13:13:51,306 - INFO: closing IoSession /0:0:0:0:0:0:0:1:63159 for user sadf
+2014-01-12 13:14:00,158 - WARNING: Room Created: id= 1850457729
+2014-01-12 13:14:10,505 - WARNING: Room Created: id= 1222389923
+2014-01-12 13:14:22,343 - INFO: closing IoSession /0:0:0:0:0:0:0:1:63207 for user wererw
+2014-01-12 13:14:35,684 - INFO: closing IoSession /0:0:0:0:0:0:0:1:63208 for user 23
+2014-01-12 13:14:49,511 - INFO: closing IoSession /0:0:0:0:0:0:0:1:63209 for user r
+2014-01-12 13:15:39,792 - INFO: closing IoSession /0:0:0:0:0:0:0:1:63200 for user qewr
+2014-01-12 13:15:40,220 - INFO: closing IoSession /0:0:0:0:0:0:0:1:63206 for user wqer
+2014-01-12 13:15:43,338 - INFO: closing IoSession /0:0:0:0:0:0:0:1:63278 for user qwer
+2014-01-12 13:15:51,015 - INFO: closing IoSession /0:0:0:0:0:0:0:1:63279 for user wqer
+2014-01-12 13:16:21,355 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 13:16:21,356 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 13:16:21,356 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 13:16:21,356 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 13:16:21,357 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 13:16:21,357 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 13:16:21,357 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 13:16:21,357 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 13:16:25,875 - WARNING: Room Created: id= 347711124
+2014-01-12 13:19:41,798 - WARNING: closing idle session /0:0:0:0:0:0:0:1:63301
+2014-01-12 13:19:41,798 - INFO: closing IoSession /0:0:0:0:0:0:0:1:63301 for user qwer
+2014-01-12 13:27:28,991 - INFO: closing IoSession /0:0:0:0:0:0:0:1:63302 for user asdf
+2014-01-12 13:27:36,808 - WARNING: closing idle session /0:0:0:0:0:0:0:1:63352
+2014-01-12 13:27:36,808 - INFO: closing IoSession /0:0:0:0:0:0:0:1:63352 for user fg
+2014-01-12 13:27:36,809 - WARNING: already stopped
+2014-01-12 13:29:46,867 - INFO: closing IoSession /0:0:0:0:0:0:0:1:63436 for user sdaf
+2014-01-12 13:29:59,046 - INFO: closing IoSession /0:0:0:0:0:0:0:1:63303 for user d
+2014-01-12 13:30:08,994 - WARNING: disconnecting old session for user wer
+2014-01-12 13:30:08,995 - WARNING: handleSessionClosed user for this session is already deleted
+2014-01-12 13:30:24,789 - INFO: closing IoSession /0:0:0:0:0:0:0:1:63304 for user fxdgsdf
+2014-01-12 13:30:35,077 - WARNING: closing idle session /0:0:0:0:0:0:0:1:63447
+2014-01-12 13:30:35,078 - INFO: closing IoSession /0:0:0:0:0:0:0:1:63447 for user wer
+2014-01-12 13:31:22,000 - INFO: closing IoSession /0:0:0:0:0:0:0:1:63454 for user werwerewrwer
+2014-01-12 13:31:23,124 - INFO: closing IoSession /0:0:0:0:0:0:0:1:63445 for user asdfasdfasdfadfs
+2014-01-12 13:31:41,671 - INFO: closing IoSession /0:0:0:0:0:0:0:1:63458 for user wer
+2014-01-12 13:31:50,427 - WARNING: closing idle session /0:0:0:0:0:0:0:1:63457
+2014-01-12 13:31:50,427 - INFO: closing IoSession /0:0:0:0:0:0:0:1:63457 for user qwer
+2014-01-12 13:51:19,138 - INFO: closing IoSession /0:0:0:0:0:0:0:1:63459 for user werewr
+2014-01-12 13:52:00,475 - INFO: closing IoSession /0:0:0:0:0:0:0:1:63721 for user qwer
+2014-01-12 13:52:09,360 - INFO: closing IoSession /0:0:0:0:0:0:0:1:63724 for user werwe
+2014-01-12 13:54:25,081 - WARNING: got out of turn request
+2014-01-12 13:54:25,083 - WARNING: got out of turn request
+2014-01-12 13:54:25,117 - WARNING: got out of turn request
+2014-01-12 13:56:20,803 - WARNING: closing idle session /0:0:0:0:0:0:0:1:63723
+2014-01-12 13:56:20,804 - INFO: closing IoSession /0:0:0:0:0:0:0:1:63723 for user asdf
+2014-01-12 13:57:53,801 - WARNING: closing idle session /0:0:0:0:0:0:0:1:63778
+2014-01-12 13:57:53,802 - INFO: closing IoSession /0:0:0:0:0:0:0:1:63778 for user asdf
+2014-01-12 14:54:55,613 - WARNING: got out of turn request
+2014-01-12 14:55:20,608 - WARNING: got out of turn request
+2014-01-12 14:55:21,386 - WARNING: got out of turn request
+2014-01-12 14:55:23,286 - WARNING: got out of turn request
+2014-01-12 14:55:31,580 - INFO: closing IoSession /0:0:0:0:0:0:0:1:63727 for user werre
+2014-01-12 14:55:32,468 - INFO: closing IoSession /0:0:0:0:0:0:0:1:63726 for user c
+2014-01-12 14:55:32,943 - INFO: closing IoSession /0:0:0:0:0:0:0:1:63725 for user e
+2014-01-12 14:55:33,524 - INFO: closing IoSession /0:0:0:0:0:0:0:1:64428 for user wer
+2014-01-12 15:07:53,570 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 15:07:53,571 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 15:07:53,571 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 15:07:53,571 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 15:07:53,571 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 15:07:53,571 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 15:07:53,571 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 15:07:53,571 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 15:08:17,162 - WARNING: Room Created: id= 847746138
+2014-01-12 16:41:48,652 - INFO: closing IoSession /127.0.0.1:64565 for user qwre
+2014-01-12 16:41:50,308 - INFO: closing IoSession /0:0:0:0:0:0:0:1:64585 for user ww
+2014-01-12 16:43:23,170 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49751 for user dff
+2014-01-12 16:45:18,850 - INFO: closing IoSession /0:0:0:0:0:0:0:1:64587 for user dd
+2014-01-12 16:45:19,809 - INFO: closing IoSession /0:0:0:0:0:0:0:1:64586 for user cc
+2014-01-12 16:45:20,376 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49743 for user sdaf
+2014-01-12 16:45:21,032 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49753 for user wer
+2014-01-12 16:53:14,456 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49763 for user d
+2014-01-12 16:54:04,704 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49803 for user wer
+2014-01-12 16:54:35,771 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49804 for user werewr
+2014-01-12 16:55:55,240 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49805 for user werwe
+2014-01-12 16:59:29,953 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49806 for user werwe
+2014-01-12 17:00:11,434 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49834 for user werwe
+2014-01-12 17:03:02,281 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49835 for user rfdfds
+2014-01-12 17:15:29,250 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49858 for user wefwevw
+2014-01-12 17:15:48,732 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50006 for user dfsa
+2014-01-12 17:37:05,485 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50007 for user erwew
+2014-01-12 17:37:41,439 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49761 for user c
+2014-01-12 17:37:41,950 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49760 for user ewrfg
+2014-01-12 17:37:42,384 - INFO: closing IoSession /0:0:0:0:0:0:0:1:49759 for user qwer
+2014-01-12 17:37:45,358 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50395 for user werwe
+2014-01-12 17:38:49,237 - WARNING: exceptionCaught cause Unresolved compilation problem: 
+	The method validateAndHandleFinish(IUser, JSONArray, HandlingResult) in the type RummyRoomExtension3User is not applicable for the arguments (IUser, JSONArray, int, HandlingResult)
+ remote /0:0:0:0:0:0:0:1:50418
+2014-01-12 17:38:49,237 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50418 for user wer
+2014-01-12 17:39:45,290 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50419 for user xcv
+2014-01-12 17:39:46,384 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50420 for user d
+2014-01-12 17:39:47,093 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50421 for user fxdgsdf
+2014-01-12 17:40:12,966 - WARNING: exceptionCaught cause Unresolved compilation problem: 
+	The method validateAndHandleFinish(IUser, JSONArray, HandlingResult) in the type RummyRoomExtension3User is not applicable for the arguments (IUser, JSONArray, int, HandlingResult)
+ remote /0:0:0:0:0:0:0:1:50423
+2014-01-12 17:40:12,966 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50423 for user w
+2014-01-12 17:40:51,148 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50424 for user c
+2014-01-12 17:40:52,065 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50425 for user ddd
+2014-01-12 17:40:52,588 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50426 for user a
+2014-01-12 17:40:53,488 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50427 for user dfgfd
+2014-01-12 17:40:56,433 - WARNING: Room Created: id= 1100991467
+2014-01-12 17:41:12,413 - WARNING: exceptionCaught cause Unresolved compilation problem: 
+	The method validateAndHandleFinish(IUser, JSONArray, HandlingResult) in the type RummyRoomExtension3User is not applicable for the arguments (IUser, JSONArray, int, HandlingResult)
+ remote /0:0:0:0:0:0:0:1:50443
+2014-01-12 17:41:12,414 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50443 for user qwer
+2014-01-12 17:41:35,344 - WARNING: got out of turn request
+2014-01-12 17:41:37,498 - WARNING: got out of turn request
+2014-01-12 17:41:54,078 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 17:41:54,080 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 17:41:54,081 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 17:41:54,081 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 17:41:54,081 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 17:41:54,081 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 17:41:54,081 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 17:41:54,081 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 17:41:57,252 - WARNING: Room Created: id= 1182936939
+2014-01-12 17:44:57,546 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 17:44:57,547 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 17:44:57,547 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 17:44:57,548 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 17:44:57,548 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 17:44:57,548 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 17:44:57,548 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 17:44:57,548 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 17:45:05,708 - WARNING: Room Created: id= 1982491996
+2014-01-12 18:12:48,067 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 18:12:48,069 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 18:12:48,069 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 18:12:48,069 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 18:12:48,069 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 18:12:48,069 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 18:12:48,069 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 18:12:48,069 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 18:13:03,142 - WARNING: Room Created: id= 510871315
+2014-01-12 18:21:10,027 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50753 for user ddf
+2014-01-12 18:28:43,842 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50822 for user sadf
+2014-01-12 18:28:44,345 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50752 for user s
+2014-01-12 18:28:44,723 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50751 for user wer
+2014-01-12 18:28:45,617 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50750 for user asdf
+2014-01-12 18:29:03,303 - WARNING: Room Created: id= 1645594452
+2014-01-12 18:29:13,304 - WARNING: disconnecting old session for user a
+2014-01-12 18:29:13,305 - WARNING: handleSessionClosed user for this session is already deleted
+2014-01-12 18:29:44,571 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50982 for user wer
+2014-01-12 18:29:52,371 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50985 for user sdxcxxc
+2014-01-12 18:29:59,096 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50986 for user a
+2014-01-12 18:30:06,507 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50989 for user wer
+2014-01-12 18:30:07,375 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50987 for user n
+2014-01-12 18:30:07,883 - INFO: closing IoSession /0:0:0:0:0:0:0:1:50988 for user dd
+2014-01-12 18:36:40,203 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 18:36:40,205 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 18:36:40,205 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 18:36:40,205 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 18:36:40,205 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 18:36:40,205 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 18:36:40,205 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 18:36:40,205 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 18:42:18,410 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 18:42:18,411 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 18:42:18,411 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 18:42:18,411 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 18:42:18,411 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 18:42:18,411 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 18:42:18,413 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 18:42:18,413 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 18:43:23,243 - WARNING: Room Created: id= 1225415389
+2014-01-12 18:45:11,593 - INFO: closing IoSession /0:0:0:0:0:0:0:1:51119 for user c
+2014-01-12 18:51:14,760 - INFO: closing IoSession /0:0:0:0:0:0:0:1:51136 for user q
+2014-01-12 18:51:15,999 - INFO: closing IoSession /0:0:0:0:0:0:0:1:51116 for user asdf
+2014-01-12 18:51:16,516 - INFO: closing IoSession /0:0:0:0:0:0:0:1:51117 for user wer
+2014-01-12 18:51:17,171 - INFO: closing IoSession /0:0:0:0:0:0:0:1:51118 for user xcv
+2014-01-12 19:07:00,523 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 19:07:00,524 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 19:07:00,524 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 19:07:00,524 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 19:07:00,524 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 19:07:00,524 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 19:07:00,525 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 19:07:00,525 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 19:07:38,141 - WARNING: Room Created: id= 318891533
+2014-01-12 19:07:40,345 - WARNING: got out of turn request
+2014-01-12 19:07:57,822 - INFO: closing IoSession /0:0:0:0:0:0:0:1:51609 for user qwer
+2014-01-12 19:10:09,157 - INFO: closing IoSession /0:0:0:0:0:0:0:1:51611 for user wer
+2014-01-12 19:10:09,709 - INFO: closing IoSession /0:0:0:0:0:0:0:1:51612 for user cv
+2014-01-12 19:10:09,902 - INFO: closing IoSession /0:0:0:0:0:0:0:1:51613 for user ee
+2014-01-12 19:10:29,587 - INFO: closing IoSession /0:0:0:0:0:0:0:1:51626 for user asdf
+2014-01-12 19:11:24,206 - INFO: closing IoSession /0:0:0:0:0:0:0:1:51625 for user qwer
+2014-01-12 19:11:25,153 - INFO: closing IoSession /0:0:0:0:0:0:0:1:51645 for user wer
+2014-01-12 19:11:25,645 - INFO: closing IoSession /0:0:0:0:0:0:0:1:51646 for user e
+2014-01-12 19:11:43,613 - INFO: closing IoSession /0:0:0:0:0:0:0:1:51693 for user qwer
+2014-01-12 19:12:20,993 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 19:12:20,994 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 19:12:20,994 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 19:12:20,994 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 19:12:20,994 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 19:12:20,994 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 19:12:20,994 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 19:12:20,994 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 19:12:31,167 - WARNING: Room Created: id= 481405234
+2014-01-12 19:13:01,046 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 19:13:01,048 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 19:13:01,049 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 19:13:01,049 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 19:13:01,049 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 19:13:01,049 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 19:13:01,049 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 19:13:01,049 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 19:13:05,083 - WARNING: Room Created: id= 540311432
+2014-01-12 19:13:24,404 - INFO: closing IoSession /0:0:0:0:0:0:0:1:51756 for user qw
+2014-01-12 19:13:41,918 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 19:13:41,919 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 19:13:41,919 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 19:13:41,919 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 19:13:41,919 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 19:13:41,919 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 19:13:41,919 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 19:13:41,919 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 19:53:57,864 - WARNING: Room Created: id= 1797998331
+2014-01-12 19:57:18,183 - INFO: closing IoSession /0:0:0:0:0:0:0:1:52139 for user btb
+2014-01-12 19:57:18,754 - INFO: closing IoSession /0:0:0:0:0:0:0:1:52138 for user bb
+2014-01-12 19:57:19,282 - INFO: closing IoSession /0:0:0:0:0:0:0:1:52136 for user hg
+2014-01-12 19:57:19,782 - INFO: closing IoSession /0:0:0:0:0:0:0:1:52135 for user wer
+2014-01-12 19:57:23,629 - WARNING: Room Created: id= 1788887159
+2014-01-12 20:01:55,311 - WARNING: got out of turn request
+2014-01-12 20:02:16,254 - WARNING: got out of turn request
+2014-01-12 20:02:17,650 - WARNING: got out of turn request
+2014-01-12 20:02:19,798 - WARNING: closing idle session /0:0:0:0:0:0:0:1:52155
+2014-01-12 20:02:19,798 - INFO: closing IoSession /0:0:0:0:0:0:0:1:52155 for user wer
+2014-01-12 20:22:23,180 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 20:22:23,186 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 20:22:23,186 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 20:22:23,186 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 20:22:23,186 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 20:22:23,187 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 20:22:23,187 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 20:22:23,187 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 20:22:36,743 - WARNING: Room Created: id= 200297301
+2014-01-12 20:34:33,405 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 20:34:33,407 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 20:34:33,407 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 20:34:33,407 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 20:34:33,407 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 20:34:33,407 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 20:34:33,407 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 20:34:33,407 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 20:34:36,258 - WARNING: Room Created: id= 455403550
+2014-01-12 20:34:56,092 - INFO: closing IoSession /0:0:0:0:0:0:0:1:52660 for user qwer
+2014-01-12 20:35:12,993 - WARNING: got out of turn request
+2014-01-12 20:35:14,305 - WARNING: got out of turn request
+2014-01-12 20:35:40,229 - INFO: closing IoSession /0:0:0:0:0:0:0:1:52661 for user asdf
+2014-01-12 20:35:40,584 - INFO: closing IoSession /0:0:0:0:0:0:0:1:52663 for user vv
+2014-01-12 20:35:41,047 - INFO: closing IoSession /0:0:0:0:0:0:0:1:52664 for user dd
+2014-01-12 20:35:46,917 - WARNING: got out of turn request
+2014-01-12 20:35:53,012 - WARNING: got out of turn request
+2014-01-12 20:35:58,792 - WARNING: got out of turn request
+2014-01-12 20:36:06,787 - INFO: closing IoSession /0:0:0:0:0:0:0:1:52758 for user dvd
+2014-01-12 20:37:58,412 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 20:37:58,413 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 20:37:58,413 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 20:37:58,413 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 20:37:58,413 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 20:37:58,413 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 20:37:58,413 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 20:37:58,413 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 20:38:13,924 - WARNING: Room Created: id= 655878952
+2014-01-12 20:38:34,175 - INFO: closing IoSession /0:0:0:0:0:0:0:1:52815 for user adf
+2014-01-12 20:38:46,876 - WARNING: got out of turn request
+2014-01-12 20:38:48,110 - WARNING: got out of turn request
+2014-01-12 20:40:09,137 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 20:40:09,139 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 20:40:09,139 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 20:40:09,139 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 20:40:09,139 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 20:40:09,139 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 20:40:09,139 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 20:40:09,139 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 20:40:16,147 - WARNING: Room Created: id= 1466860162
+2014-01-12 20:44:57,371 - INFO: closing IoSession /0:0:0:0:0:0:0:1:52846 for user qwer
+2014-01-12 20:44:58,453 - INFO: closing IoSession /0:0:0:0:0:0:0:1:52847 for user asdf
+2014-01-12 20:44:58,956 - INFO: closing IoSession /0:0:0:0:0:0:0:1:52848 for user xcv
+2014-01-12 20:44:59,721 - INFO: closing IoSession /0:0:0:0:0:0:0:1:52849 for user s
+2014-01-12 20:49:20,059 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 20:49:20,062 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 20:49:20,063 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 20:49:20,063 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 20:49:20,063 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 20:49:20,063 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 20:49:20,063 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 20:49:20,063 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 20:49:52,181 - WARNING: Room Created: id= 416659561
+2014-01-12 20:49:55,286 - INFO: closing IoSession /0:0:0:0:0:0:0:1:52959 for user a
+2014-01-12 20:52:41,332 - WARNING: closing idle session /0:0:0:0:0:0:0:1:52964
+2014-01-12 20:52:41,333 - INFO: closing IoSession /0:0:0:0:0:0:0:1:52964 for user w
+2014-01-12 20:54:01,676 - INFO: closing IoSession /0:0:0:0:0:0:0:1:52960 for user c
+2014-01-12 20:54:02,257 - INFO: closing IoSession /0:0:0:0:0:0:0:1:52965 for user ff
+2014-01-12 20:54:02,697 - INFO: closing IoSession /0:0:0:0:0:0:0:1:52966 for user e
+2014-01-12 20:54:26,377 - WARNING: got out of turn request
+2014-01-12 20:55:18,799 - WARNING: closing idle session /0:0:0:0:0:0:0:1:52978
+2014-01-12 20:55:18,800 - INFO: closing IoSession /0:0:0:0:0:0:0:1:52978 for user a
+2014-01-12 21:11:08,626 - INFO: closing IoSession /0:0:0:0:0:0:0:1:52979 for user s
+2014-01-12 21:11:09,292 - INFO: closing IoSession /0:0:0:0:0:0:0:1:52981 for user ee
+2014-01-12 21:11:09,778 - INFO: closing IoSession /0:0:0:0:0:0:0:1:52982 for user vv
+2014-01-12 21:15:58,490 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 21:15:58,491 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 21:15:58,491 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 21:15:58,491 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 21:15:58,493 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 21:15:58,493 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 21:15:58,493 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 21:15:58,493 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 21:16:05,587 - WARNING: Room Created: id= 1180593752
+2014-01-12 21:23:04,109 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 21:23:04,110 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 21:23:04,110 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 21:23:04,110 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 21:23:04,110 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 21:23:04,110 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 21:23:04,110 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 21:23:04,110 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 21:23:12,285 - WARNING: Room Created: id= 946094600
+2014-01-12 21:30:05,757 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 21:30:05,758 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 21:30:05,760 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 21:30:05,760 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 21:30:05,760 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 21:30:05,761 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 21:30:05,761 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 21:30:05,761 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 21:30:18,467 - WARNING: Room Created: id= 510693494
+2014-01-12 21:39:17,834 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 21:39:17,835 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 21:39:17,835 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 21:39:17,835 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 21:39:17,835 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 21:39:17,835 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 21:39:17,836 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 21:39:17,836 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 21:39:28,357 - WARNING: Room Created: id= 1269039571
+2014-01-12 21:43:37,402 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53445 for user asd
+2014-01-12 21:43:38,598 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53446 for user cv
+2014-01-12 21:43:39,119 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53447 for user fe
+2014-01-12 21:43:39,575 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53449 for user ww
+2014-01-12 21:43:49,008 - WARNING: Room Created: id= 1661141084
+2014-01-12 21:43:52,752 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53478 for user v
+2014-01-12 21:43:59,025 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53477 for user b
+2014-01-12 21:44:00,623 - WARNING: disconnecting old session for user d
+2014-01-12 21:44:00,623 - WARNING: handleSessionClosed user for this session is already deleted
+2014-01-12 21:44:28,672 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53476 for user a
+2014-01-12 21:44:57,458 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53482 for user sadf
+2014-01-12 21:45:07,613 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53485 for user zzz
+2014-01-12 21:45:08,009 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53483 for user d
+2014-01-12 21:45:08,438 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53486 for user werwe
+2014-01-12 21:45:08,953 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53484 for user wer
+2014-01-12 21:45:25,925 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53487 for user a
+2014-01-12 22:12:11,509 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 22:12:11,510 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 22:12:11,510 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 22:12:11,510 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 22:12:11,510 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 22:12:11,510 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 22:12:11,510 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 22:12:11,510 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-12 22:12:41,272 - WARNING: Room Created: id= 294858065
+2014-01-12 22:12:41,740 - WARNING: Room Created: id= 1557786095
+2014-01-12 22:12:41,950 - WARNING: Room Created: id= 993895165
+2014-01-12 22:12:42,130 - WARNING: Room Created: id= 1801551387
+2014-01-12 22:12:42,303 - WARNING: Room Created: id= 614747199
+2014-01-12 22:12:42,474 - WARNING: Room Created: id= 1098434349
+2014-01-12 22:12:42,661 - WARNING: Room Created: id= 1769243652
+2014-01-12 22:12:42,853 - WARNING: Room Created: id= 2117105776
+2014-01-12 22:12:43,026 - WARNING: Room Created: id= 879732706
+2014-01-12 22:13:57,540 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53732 for user aefw
+2014-01-13 10:54:29,624 - WARNING: closing idle session /0:0:0:0:0:0:0:1:53738
+2014-01-13 10:54:33,735 - INFO: closing IoSession /0:0:0:0:0:0:0:1:53738 for user wef
+2014-01-13 10:54:37,168 - WARNING: closing idle session /0:0:0:0:0:0:0:1:53738
+2014-01-13 11:13:43,151 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54048 for user safd
+2014-01-13 11:16:23,378 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 11:16:23,379 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 11:16:23,379 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 11:16:23,379 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 11:16:23,379 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 11:16:23,379 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 11:16:23,379 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 11:16:23,379 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 11:16:59,110 - WARNING: Room Created: id= 266596758
+2014-01-13 11:21:57,043 - WARNING: got out of turn request
+2014-01-13 11:22:25,555 - WARNING: got out of turn request
+2014-01-13 11:22:27,762 - WARNING: got out of turn request
+2014-01-13 11:22:34,003 - WARNING: got out of turn request
+2014-01-13 11:22:36,939 - WARNING: got out of turn request
+2014-01-13 11:22:38,820 - WARNING: got out of turn request
+2014-01-13 11:22:42,179 - WARNING: got out of turn request
+2014-01-13 11:25:30,761 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 11:25:30,762 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 11:25:30,762 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 11:25:30,762 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 11:25:30,762 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 11:25:30,762 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 11:25:30,762 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 11:25:30,762 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 11:25:38,665 - WARNING: Room Created: id= 571548566
+2014-01-13 11:27:51,969 - WARNING: got out of turn request
+2014-01-13 11:38:48,124 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 11:38:48,125 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 11:38:48,125 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 11:38:48,125 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 11:38:48,125 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 11:38:48,125 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 11:38:48,125 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 11:38:48,125 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 11:38:58,830 - WARNING: Room Created: id= 1373636372
+2014-01-13 11:41:58,704 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 11:41:58,705 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 11:41:58,705 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 11:41:58,705 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 11:41:58,705 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 11:41:58,705 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 11:41:58,705 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 11:41:58,705 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 11:42:40,016 - WARNING: Room Created: id= 204435102
+2014-01-13 11:42:53,928 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54181 for user vb
+2014-01-13 11:53:32,427 - WARNING: got out of turn request
+2014-01-13 11:55:17,683 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 11:55:17,687 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 11:55:17,687 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 11:55:17,687 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 11:55:17,687 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 11:55:17,687 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 11:55:17,688 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 11:55:17,688 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 11:55:31,479 - WARNING: Room Created: id= 59436781
+2014-01-13 11:58:24,499 - WARNING: got out of turn request
+2014-01-13 11:58:37,462 - WARNING: got out of turn request
+2014-01-13 12:00:19,647 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 12:00:19,649 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 12:00:19,649 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 12:00:19,649 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 12:00:19,649 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 12:00:19,649 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 12:00:19,649 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 12:00:19,649 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 12:00:31,241 - WARNING: Room Created: id= 1371531725
+2014-01-13 12:06:10,660 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 12:06:10,662 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 12:06:10,662 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 12:06:10,662 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 12:06:10,662 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 12:06:10,662 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 12:06:10,662 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 12:06:10,662 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 12:06:22,302 - WARNING: Room Created: id= 608689058
+2014-01-13 12:59:34,802 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 12:59:34,803 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 12:59:34,803 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 12:59:34,803 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 12:59:34,803 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 12:59:34,803 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 12:59:34,804 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 12:59:34,804 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 13:07:18,823 - WARNING: Room Created: id= 1981584784
+2014-01-13 13:17:45,568 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 13:17:45,572 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 13:17:45,572 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 13:17:45,572 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 13:17:45,572 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 13:17:45,572 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 13:17:45,572 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 13:17:45,572 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 13:17:55,246 - WARNING: Room Created: id= 109588118
+2014-01-13 13:57:29,254 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54670 for user wer
+2014-01-13 13:58:15,116 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54671 for user ewv
+2014-01-13 13:58:16,220 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54673 for user vvv
+2014-01-13 13:58:16,731 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54674 for user wew
+2014-01-13 13:58:17,648 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54892 for user weqrwqer
+2014-01-13 13:58:17,650 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:54892
+2014-01-13 13:58:24,063 - WARNING: Room Created: id= 728798417
+2014-01-13 16:12:43,698 - WARNING: got out of turn request
+2014-01-13 16:14:15,921 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54902 for user qwer
+2014-01-13 16:15:20,560 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54903 for user xcv
+2014-01-13 16:15:21,231 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54904 for user vv
+2014-01-13 16:15:22,274 - INFO: closing IoSession /0:0:0:0:0:0:0:1:54905 for user wer
+2014-01-13 16:15:22,928 - INFO: closing IoSession /0:0:0:0:0:0:0:1:58466 for user werwerwer
+2014-01-13 16:15:22,928 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:58466
+2014-01-13 16:15:27,161 - WARNING: Room Created: id= 1251921779
+2014-01-13 16:17:21,956 - INFO: closing IoSession /0:0:0:0:0:0:0:1:58476 for user xcv
+2014-01-13 16:17:26,958 - WARNING: closing idle session /0:0:0:0:0:0:0:1:58473
+2014-01-13 16:17:26,959 - INFO: closing IoSession /0:0:0:0:0:0:0:1:58473 for user qwer
+2014-01-13 16:21:27,038 - INFO: closing IoSession /0:0:0:0:0:0:0:1:58479 for user aaa
+2014-01-13 16:21:37,500 - WARNING: Room Created: id= 1928134243
+2014-01-13 16:21:41,649 - INFO: closing IoSession /0:0:0:0:0:0:0:1:58474 for user asdf
+2014-01-13 16:22:08,668 - INFO: closing IoSession /0:0:0:0:0:0:0:1:58475 for user a
+2014-01-13 16:22:18,387 - INFO: closing IoSession /0:0:0:0:0:0:0:1:58624 for user www
+2014-01-13 16:22:18,387 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:58624
+2014-01-13 16:22:26,102 - INFO: closing IoSession /0:0:0:0:0:0:0:1:58628 for user vv
+2014-01-13 16:22:30,104 - WARNING: closing idle session /0:0:0:0:0:0:0:1:58625
+2014-01-13 16:22:30,104 - INFO: closing IoSession /0:0:0:0:0:0:0:1:58625 for user wer
+2014-01-13 16:23:30,917 - WARNING: Room Created: id= 986600720
+2014-01-13 16:23:44,408 - INFO: closing IoSession /0:0:0:0:0:0:0:1:58626 for user weewr
+2014-01-13 16:23:51,214 - INFO: closing IoSession /0:0:0:0:0:0:0:1:58627 for user werewrwerw
+2014-01-13 16:23:55,897 - WARNING: closing idle session /0:0:0:0:0:0:0:1:58631
+2014-01-13 16:23:55,897 - INFO: closing IoSession /0:0:0:0:0:0:0:1:58631 for user weweewr
+2014-01-13 16:23:56,817 - INFO: closing IoSession /0:0:0:0:0:0:0:1:58629 for user fff
+2014-01-13 16:23:56,818 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:58629
+2014-01-13 16:24:41,036 - INFO: closing IoSession /0:0:0:0:0:0:0:1:58634 for user b
+2014-01-13 16:24:42,284 - INFO: closing IoSession /0:0:0:0:0:0:0:1:58632 for user v
+2014-01-13 16:24:42,640 - INFO: closing IoSession /0:0:0:0:0:0:0:1:58633 for user a
+2014-01-13 16:24:42,641 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:58633
+2014-01-13 16:25:05,667 - WARNING: Room Created: id= 1652773971
+2014-01-13 16:25:08,460 - INFO: closing IoSession /0:0:0:0:0:0:0:1:58640 for user asdf
+2014-01-13 16:25:37,290 - INFO: closing IoSession /0:0:0:0:0:0:0:1:58641 for user s
+2014-01-13 16:25:44,055 - WARNING: closing idle session /0:0:0:0:0:0:0:1:58642
+2014-01-13 16:25:44,055 - INFO: closing IoSession /0:0:0:0:0:0:0:1:58642 for user wwer
+2014-01-13 16:42:11,436 - INFO: closing IoSession /0:0:0:0:0:0:0:1:58645 for user rtytry
+2014-01-13 16:42:12,885 - INFO: closing IoSession /0:0:0:0:0:0:0:1:58643 for user v
+2014-01-13 16:42:13,398 - INFO: closing IoSession /0:0:0:0:0:0:0:1:58644 for user vv
+2014-01-13 16:42:13,402 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:58644
+2014-01-13 16:42:17,230 - WARNING: Room Created: id= 871979975
+2014-01-13 17:09:30,184 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 17:09:30,187 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 17:09:30,187 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 17:09:30,187 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 17:09:30,187 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 17:09:30,187 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 17:09:30,187 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 17:09:30,187 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 17:09:52,710 - WARNING: Room Created: id= 1544290330
+2014-01-13 17:18:30,010 - WARNING: got out of turn request
+2014-01-13 17:21:30,546 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 17:21:30,554 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 17:21:30,554 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 17:21:30,554 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 17:21:30,554 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 17:21:30,554 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 17:21:30,554 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 17:21:30,554 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 17:21:41,643 - WARNING: Room Created: id= 773003886
+2014-01-13 17:21:43,569 - INFO: closing IoSession /0:0:0:0:0:0:0:1:59701 for user b
+2014-01-13 17:21:52,801 - WARNING: disconnecting old session for user a
+2014-01-13 17:21:52,803 - WARNING: handleSessionClosed user for this session is already deleted
+2014-01-13 17:22:01,292 - INFO: closing IoSession /0:0:0:0:0:0:0:1:59703 for user cddf
+2014-01-13 17:22:01,770 - INFO: closing IoSession /0:0:0:0:0:0:0:1:59704 for user vb
+2014-01-13 17:22:02,278 - INFO: closing IoSession /0:0:0:0:0:0:0:1:59705 for user a
+2014-01-13 17:22:02,279 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:59705
+2014-01-13 17:22:05,281 - WARNING: Room Created: id= 1449487258
+2014-01-13 17:29:35,352 - WARNING: got out of turn request
+2014-01-13 17:29:37,447 - WARNING: got out of turn request
+2014-01-13 17:30:15,776 - WARNING: exceptionCaught cause Unresolved compilation problems: 
+	Type mismatch: cannot convert from JSONArray to ArrayList<Integer>
+	The method isValidGroup(JSONArray, int) in the type Utils is not applicable for the arguments (ArrayList<Integer>, int)
+ remote /0:0:0:0:0:0:0:1:59706
+2014-01-13 17:30:20,977 - INFO: closing IoSession /0:0:0:0:0:0:0:1:59706 for user a
+2014-01-13 17:34:23,774 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 17:34:23,775 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 17:34:23,775 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 17:34:23,775 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 17:34:23,775 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 17:34:23,776 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 17:34:23,776 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 17:34:23,776 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 17:34:35,462 - WARNING: Room Created: id= 150272984
+2014-01-13 17:46:14,798 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 17:46:14,799 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 17:46:14,799 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 17:46:14,799 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 17:46:14,799 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 17:46:14,799 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 17:46:14,800 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 17:46:14,800 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-13 17:48:31,886 - WARNING: Room Created: id= 817190777
+2014-01-13 19:27:45,519 - WARNING: closing idle session /0:0:0:0:0:0:0:1:60090
+2014-01-13 19:27:45,738 - INFO: closing IoSession /0:0:0:0:0:0:0:1:60090 for user rtrt
+2014-01-13 19:27:57,928 - WARNING: closing idle session /0:0:0:0:0:0:0:1:60089
+2014-01-13 19:27:57,928 - INFO: closing IoSession /0:0:0:0:0:0:0:1:60089 for user cvb
+2014-01-13 19:32:58,164 - WARNING: closing idle session /0:0:0:0:0:0:0:1:60088
+2014-01-13 19:32:58,184 - INFO: closing IoSession /0:0:0:0:0:0:0:1:60088 for user cv
+2014-01-13 20:14:40,500 - INFO: closing IoSession /0:0:0:0:0:0:0:1:62356 for user asdf
+2014-01-13 20:14:42,233 - INFO: closing IoSession /0:0:0:0:0:0:0:1:60087 for user adsf
+2014-01-13 20:14:42,277 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:60087
+2014-01-13 20:14:46,632 - WARNING: Room Created: id= 1878438225
+2014-01-13 20:15:19,870 - INFO: closing IoSession /0:0:0:0:0:0:0:1:62755 for user rrt
+2014-01-13 20:16:28,308 - INFO: closing IoSession /0:0:0:0:0:0:0:1:62756 for user dfg
+2014-01-13 20:18:52,531 - INFO: closing IoSession /0:0:0:0:0:0:0:1:62757 for user reter
+2014-01-13 20:19:01,456 - INFO: closing IoSession /0:0:0:0:0:0:0:1:62739 for user qwer
+2014-01-13 20:19:14,613 - INFO: closing IoSession /0:0:0:0:0:0:0:1:62765 for user afad
+2014-01-13 20:19:40,633 - INFO: closing IoSession /0:0:0:0:0:0:0:1:62768 for user a
+2014-01-13 20:20:00,566 - INFO: closing IoSession /0:0:0:0:0:0:0:1:62769 for user fvv
+2014-01-13 20:20:55,251 - INFO: closing IoSession /0:0:0:0:0:0:0:1:62771 for user efwev
+2014-01-13 20:21:39,675 - INFO: closing IoSession /0:0:0:0:0:0:0:1:62766 for user retretrt
+2014-01-13 20:21:39,675 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:62766
+2014-01-13 20:22:06,398 - INFO: closing IoSession /0:0:0:0:0:0:0:1:62772 for user erw
+2014-01-13 20:22:09,360 - WARNING: Room Created: id= 1824868138
+2014-01-13 20:22:20,467 - INFO: closing IoSession /0:0:0:0:0:0:0:1:62776 for user ccv
+2014-01-13 20:22:25,468 - WARNING: closing idle session /0:0:0:0:0:0:0:1:62775
+2014-01-13 20:22:25,468 - INFO: closing IoSession /0:0:0:0:0:0:0:1:62775 for user wer
+2014-01-13 20:22:25,469 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:62775
+2014-01-13 20:22:57,570 - WARNING: Room Created: id= 1476883374
+2014-01-13 20:23:04,314 - WARNING: Room Created: id= 518534280
+2014-01-13 20:23:06,153 - INFO: closing IoSession /0:0:0:0:0:0:0:1:62777 for user xcvxcvcvx
+2014-01-13 20:23:06,154 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:62777
+2014-01-13 20:23:14,559 - INFO: closing IoSession /0:0:0:0:0:0:0:1:62779 for user werwer
+2014-01-13 20:23:19,560 - WARNING: closing idle session /0:0:0:0:0:0:0:1:62778
+2014-01-13 20:23:19,560 - INFO: closing IoSession /0:0:0:0:0:0:0:1:62778 for user ewrew
+2014-01-13 20:23:19,561 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:62778
+2014-01-13 20:23:29,862 - WARNING: Room Created: id= 567881838
+2014-01-13 20:23:32,127 - INFO: closing IoSession /0:0:0:0:0:0:0:1:62780 for user re
+2014-01-13 20:23:39,427 - INFO: closing IoSession /0:0:0:0:0:0:0:1:62782 for user bb
+2014-01-13 20:23:51,427 - INFO: closing IoSession /0:0:0:0:0:0:0:1:62786 for user ede
+2014-01-13 20:24:06,838 - INFO: closing IoSession /0:0:0:0:0:0:0:1:62785 for user rrt
+2014-01-13 20:24:29,505 - INFO: closing IoSession /0:0:0:0:0:0:0:1:62788 for user brbrbr
+2014-01-13 20:25:01,026 - INFO: closing IoSession /0:0:0:0:0:0:0:1:62781 for user ee
+2014-01-13 20:25:06,470 - WARNING: Room Created: id= 682376423
+2014-01-13 20:25:11,037 - INFO: closing IoSession /0:0:0:0:0:0:0:1:62791 for user veesef
+2014-01-13 20:25:17,352 - INFO: closing IoSession /0:0:0:0:0:0:0:1:62793 for user vvv
+2014-01-13 20:25:27,335 - INFO: closing IoSession /0:0:0:0:0:0:0:1:62794 for user vvvv
+2014-01-14 11:18:54,424 - WARNING: got out of turn request
+2014-01-14 11:18:54,548 - WARNING: got out of turn request
+2014-01-14 11:18:56,535 - WARNING: got out of turn request
+2014-01-14 11:18:56,536 - WARNING: got out of turn request
+2014-01-14 11:43:30,598 - INFO: closing IoSession /0:0:0:0:0:0:0:1:62795 for user vvv
+2014-01-14 11:43:33,599 - INFO: closing IoSession /0:0:0:0:0:0:0:1:62792 for user eee
+2014-01-14 11:43:35,798 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:62792
+2014-01-14 11:43:42,022 - WARNING: Room Created: id= 373164192
+2014-01-14 11:43:53,387 - INFO: closing IoSession /0:0:0:0:0:0:0:1:65361 for user bbb
+2014-01-14 11:44:02,715 - INFO: closing IoSession /0:0:0:0:0:0:0:1:62787 for user erbb
+2014-01-14 11:44:02,715 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:62787
+2014-01-14 11:44:18,978 - INFO: closing IoSession /0:0:0:0:0:0:0:1:65362 for user ccc
+2014-01-14 11:45:00,982 - INFO: closing IoSession /0:0:0:0:0:0:0:1:65366 for user eee
+2014-01-14 11:47:37,783 - INFO: closing IoSession /0:0:0:0:0:0:0:1:65360 for user aaa
+2014-01-14 11:48:52,601 - INFO: closing IoSession /0:0:0:0:0:0:0:1:65363 for user ddd
+2014-01-14 11:48:52,602 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:65363
+2014-01-14 11:48:57,926 - WARNING: Room Created: id= 1642715615
+2014-01-14 11:49:03,159 - INFO: closing IoSession /0:0:0:0:0:0:0:1:65393 for user qqq
+2014-01-14 11:49:27,126 - INFO: closing IoSession /0:0:0:0:0:0:0:1:65395 for user bbb
+2014-01-14 11:49:32,163 - WARNING: closing idle session /0:0:0:0:0:0:0:1:65394
+2014-01-14 11:49:32,163 - INFO: closing IoSession /0:0:0:0:0:0:0:1:65394 for user aaa
+2014-01-14 11:51:12,279 - WARNING: Room Created: id= 1489826644
+2014-01-14 11:51:23,892 - INFO: closing IoSession /0:0:0:0:0:0:0:1:65396 for user ccc
+2014-01-14 11:51:23,893 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:65396
+2014-01-14 11:51:36,866 - INFO: closing IoSession /0:0:0:0:0:0:0:1:65409 for user ddd
+2014-01-14 11:52:10,812 - INFO: closing IoSession /0:0:0:0:0:0:0:1:65413 for user ggg
+2014-01-14 11:52:15,813 - WARNING: closing idle session /0:0:0:0:0:0:0:1:65408
+2014-01-14 11:52:15,813 - INFO: closing IoSession /0:0:0:0:0:0:0:1:65408 for user abc
+2014-01-14 11:53:40,377 - INFO: closing IoSession /0:0:0:0:0:0:0:1:65415 for user aaa
+2014-01-14 11:53:43,552 - WARNING: Room Created: id= 763550331
+2014-01-14 11:53:50,803 - INFO: closing IoSession /0:0:0:0:0:0:0:1:65410 for user efg
+2014-01-14 11:53:50,807 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:65410
+2014-01-14 11:53:55,251 - INFO: closing IoSession /0:0:0:0:0:0:0:1:65417 for user bbb
+2014-01-14 11:54:16,436 - INFO: closing IoSession /0:0:0:0:0:0:0:1:65419 for user dfef
+2014-01-14 11:54:21,438 - WARNING: closing idle session /0:0:0:0:0:0:0:1:65416
+2014-01-14 11:54:21,438 - INFO: closing IoSession /0:0:0:0:0:0:0:1:65416 for user aaa
+2014-01-14 11:55:38,161 - INFO: closing IoSession /0:0:0:0:0:0:0:1:65424 for user asdf
+2014-01-14 11:55:41,504 - WARNING: Room Created: id= 610041581
+2014-01-14 11:55:51,876 - INFO: closing IoSession /0:0:0:0:0:0:0:1:65418 for user cc
+2014-01-14 11:55:51,877 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:65418
+2014-01-14 11:55:56,789 - INFO: closing IoSession /0:0:0:0:0:0:0:1:65426 for user ccc
+2014-01-14 11:56:10,318 - INFO: closing IoSession /0:0:0:0:0:0:0:1:65428 for user brrr
+2014-01-14 11:56:15,319 - WARNING: closing idle session /0:0:0:0:0:0:0:1:65425
+2014-01-14 11:56:15,319 - INFO: closing IoSession /0:0:0:0:0:0:0:1:65425 for user aaa
+2014-01-14 12:08:27,531 - WARNING: Room Created: id= 1441810202
+2014-01-14 12:08:31,480 - INFO: closing IoSession /0:0:0:0:0:0:0:1:65471 for user qwer
+2014-01-14 12:08:38,965 - INFO: closing IoSession /0:0:0:0:0:0:0:1:65427 for user asdf
+2014-01-14 12:08:38,966 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:65427
+2014-01-14 12:08:46,665 - INFO: closing IoSession /0:0:0:0:0:0:0:1:65473 for user fdf
+2014-01-14 12:09:21,319 - WARNING: got out of turn request
+2014-01-14 12:09:24,769 - WARNING: got out of turn request
+2014-01-14 12:10:48,526 - WARNING: got out of turn request
+2014-01-14 12:10:49,638 - WARNING: got out of turn request
+2014-01-14 12:12:16,448 - INFO: closing IoSession /0:0:0:0:0:0:0:1:65472 for user aaaa
+2014-01-14 12:12:18,256 - INFO: closing IoSession /0:0:0:0:0:0:0:1:65474 for user ccc
+2014-01-14 12:12:18,257 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:65474
+2014-01-14 12:12:23,721 - WARNING: Room Created: id= 1653556735
+2014-01-14 12:12:34,994 - INFO: closing IoSession /0:0:0:0:0:0:0:1:65484 for user bbb
+2014-01-14 12:13:32,750 - INFO: closing IoSession /0:0:0:0:0:0:0:1:65483 for user aaa
+2014-01-14 12:13:35,966 - INFO: closing IoSession /0:0:0:0:0:0:0:1:65486 for user ccc
+2014-01-14 12:13:35,966 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:65486
+2014-01-14 12:13:39,573 - WARNING: Room Created: id= 839499776
+2014-01-14 12:13:55,507 - INFO: closing IoSession /0:0:0:0:0:0:0:1:65488 for user bbb
+2014-01-14 12:13:59,509 - WARNING: closing idle session /0:0:0:0:0:0:0:1:65487
+2014-01-14 12:13:59,509 - INFO: closing IoSession /0:0:0:0:0:0:0:1:65487 for user aaa
+2014-01-14 12:15:24,734 - INFO: closing IoSession /0:0:0:0:0:0:0:1:65489 for user ccc
+2014-01-14 12:15:24,735 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:65489
+2014-01-14 12:15:28,491 - WARNING: Room Created: id= 1444321956
+2014-01-14 12:15:39,375 - INFO: closing IoSession /0:0:0:0:0:0:0:1:65495 for user bbb
+2014-01-14 12:15:44,377 - WARNING: closing idle session /0:0:0:0:0:0:0:1:65494
+2014-01-14 12:15:44,377 - INFO: closing IoSession /0:0:0:0:0:0:0:1:65494 for user aaa
+2014-01-14 12:17:00,404 - INFO: closing IoSession /0:0:0:0:0:0:0:1:65496 for user ccc
+2014-01-14 12:17:00,404 - WARNING: exceptionCaught cause null remote /0:0:0:0:0:0:0:1:65496
+2014-01-14 12:17:03,529 - WARNING: Room Created: id= 1926949289
+2014-01-14 12:17:18,751 - INFO: closing IoSession /0:0:0:0:0:0:0:1:65498 for user cc
+2014-01-14 12:17:33,670 - INFO: closing IoSession /0:0:0:0:0:0:0:1:65499 for user ddd
+2014-01-14 12:17:58,137 - INFO: closing IoSession /0:0:0:0:0:0:0:1:65500 for user abcccc
+2014-01-14 14:45:07,020 - WARNING: got out of turn request
+2014-01-14 14:45:07,662 - WARNING: got out of turn request
+2014-01-14 14:45:08,076 - WARNING: got out of turn request
+2014-01-14 14:45:10,868 - WARNING: got out of turn request
+2014-01-14 14:45:21,872 - WARNING: got out of turn request
+2014-01-14 14:45:28,878 - WARNING: got out of turn request
+2014-01-14 17:11:41,089 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-14 17:11:41,090 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-14 17:11:41,090 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-14 17:11:41,090 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-14 17:11:41,090 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-14 17:11:41,090 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-14 17:11:41,090 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-14 17:11:41,091 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-14 17:12:30,920 - INFO: closing IoSession /0:0:0:0:0:0:0:1:51281 for user ewf
+2014-01-14 18:30:55,945 - INFO: Bootstrap Zone ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-14 18:30:55,946 - INFO: Loaded admin  room id = 1045027245 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-14 18:30:55,946 - INFO: Loaded admin  room id = 1360220515 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-14 18:30:55,946 - INFO: Loaded admin  room id = 1506362871 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-14 18:30:55,946 - INFO: Loaded admin  room id = 1807597455 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-14 18:30:55,946 - INFO: Loaded admin  room id = 284075701 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-14 18:30:55,946 - INFO: Loaded admin  room id = 540132073 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-14 18:30:55,946 - INFO: Loaded admin  room id = 734871524 ApiKey= 9941f8f9-bfb7-4c23-b
+2014-01-14 19:00:15,323 - WARNING: Room Created: id= 1727201669
