@@ -55744,3 +55744,26 @@ Closing session (0x0000001F: nio socket, server, /0:0:0:0:0:0:0:1:53622 => /0:0:
 2014-01-14 19:51:26,024 - ERROR: Error in starting TCP server java.net.BindException: Address already in use: bind
 2014-01-14 19:51:26,091 - INFO: UDPServer started
 2014-01-14 19:51:26,105 - ERROR: Error in starting FlashPolicyServer java.net.BindException: Address already in use: bind
+2014-01-16 20:17:01,418 - WARNING: Error in loading license from server java.lang.Exception: no key in AppConfig.json
+2014-01-16 20:17:01,419 - WARNING: Running with 500 CCU limit
+2014-01-16 20:18:05,735 - WARNING: Error in loading license from server java.lang.Exception: no key in AppConfig.json
+2014-01-16 20:18:05,737 - WARNING: Running with 500 CCU limit
+2014-01-16 20:18:05,751 - ERROR: Error in getStatement java.lang.ClassNotFoundException: org.hsqldb.jdbcDriver
+2014-01-16 20:18:05,752 - ERROR: Error in getAllZonesFromHSQLDB java.lang.NullPointerException
+2014-01-16 20:18:45,616 - WARNING: Error in loading license from server java.lang.Exception: no key in AppConfig.json
+2014-01-16 20:18:45,617 - WARNING: Running with 500 CCU limit
+2014-01-16 20:18:45,631 - ERROR: Error in getStatement java.lang.ClassNotFoundException: org.hsqldb.jdbcDriver
+2014-01-16 20:18:45,632 - ERROR: Error in getAllZonesFromHSQLDB java.lang.NullPointerException
+2014-01-16 20:18:45,986 - INFO: TCP server started
+2014-01-16 20:18:46,085 - INFO: UDPServer started
+2014-01-16 20:18:46,101 - INFO: started FlashPolicyServer
+2014-01-16 20:18:46,101 - ERROR: Error in getStatement java.lang.ClassNotFoundException: org.hsqldb.jdbcDriver
+2014-01-16 20:18:46,101 - WARNING: Error in createHSQLServiceTable java.lang.NullPointerException
+2014-01-16 20:18:46,101 - ERROR: Error in getStatement java.lang.ClassNotFoundException: org.hsqldb.jdbcDriver
+2014-01-16 20:18:46,101 - WARNING: Error in createHSQLMteringTable java.lang.NullPointerException
+2014-01-16 20:18:46,102 - ERROR: Error in getStatement java.lang.ClassNotFoundException: org.hsqldb.jdbcDriver
+2014-01-16 20:18:46,102 - WARNING: Error in createHSQLRoomTable java.lang.NullPointerException
+2014-01-16 20:19:02,349 - INFO: sending websocket handshake response
+2014-01-16 20:19:02,639 - INFO: Admin Request type = 60 ApiKey= 
+2014-01-16 20:19:05,819 - INFO: Shutting down
+2014-01-16 20:19:05,819 - INFO: Shutting down
