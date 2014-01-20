@@ -18,6 +18,8 @@ public class RummyRoomExtension3User extends BaseTurnRoomAdaptor {
     private IZone izone;
     ArrayList<IUser> pausedUserList = new ArrayList<IUser>();
     
+    ArrayList<IUser> readyUserList = new ArrayList<IUser>();
+    
     // GameData
     private ArrayList<Integer> CARDS_DECK = new ArrayList<Integer>();
     
@@ -144,7 +146,11 @@ public class RummyRoomExtension3User extends BaseTurnRoomAdaptor {
     		}
     		
     		sender.SendChatNotification("AppWarp2", tobeSent.toString(), gameRoom);
-    	}	
+    	} else if (message.equals("AppWarp2Sync ready")) {
+    		if (!readyUserList.contains(sender)) {
+    			readyUserList.add(sender);
+    		}
+    	}
     }
     
     /*
@@ -381,7 +387,7 @@ public class RummyRoomExtension3User extends BaseTurnRoomAdaptor {
          * or we can say max users are equals to joined users
          */
         
-        if(GAME_STATUS==CardsConstants.STOPPED && gameRoom.getJoinedUsers().size()==gameRoom.getMaxUsers()){
+        if(GAME_STATUS==CardsConstants.STOPPED && gameRoom.getJoinedUsers().size()==gameRoom.getMaxUsers() && readyUserList.size() == gameRoom.getMaxUsers()){
             GAME_STATUS=CardsConstants.RUNNING;
             dealNewCards();
             gameRoom.startGame(CardsConstants.SERVER_NAME);
