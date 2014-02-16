@@ -167,6 +167,7 @@ public class RummyRoomExtension3User extends BaseTurnRoomAdaptor {
     	} else
     	
         if(GAME_STATUS!=CardsConstants.RUNNING){
+        	readyUserList.remove(user);
             return;
         }
         else {
@@ -212,24 +213,41 @@ public class RummyRoomExtension3User extends BaseTurnRoomAdaptor {
     
     @Override
     public void onTurnExpired(IUser turn, HandlingResult result) {
-    	ArrayList<Integer> user_hand = null;
-    	if(turn.getName().equals(user1_name)) {
-    		user_hand = USER_1_HAND;
-    	} else if(turn.getName().equals(user2_name)) {
-    		user_hand = USER_2_HAND;
-        } else if(turn.getName().equals(user3_name)) {
-        	user_hand = USER_3_HAND;
-        } else if(turn.getName().equals(user4_name)) {
-        	user_hand = USER_4_HAND;
-        }
-    	JSONObject dataUser = new JSONObject();
+    	result.sendResponse = false;
+    	
+    	ArrayList<Integer> user_hand = this.GetUserHand(turn.getName());
+
+    	if (shouldDrawCard(user_hand)) {
+    		Integer card = CARDS_DECK.get(CARDS_DECK.size() - 1);
+    		this.validateAndHandleDraw(turn, CardsConstants.ME_DRAW_CARD_MIDDLE, result);
+    		
+    		JSONObject data = new JSONObject();
+    		try {
+    		data.put("type", CardsConstants.ME_AUTO_DRAW);
+    		} catch (JSONException e) {
+    		 e.printStackTrace();	
+    		}
+    		gameRoom.BroadcastChat(CardsConstants.SERVER_NAME, data.toString());
+
+    	}
+    	
+    	Integer card = user_hand.get(0);
+    	this.validateAndHandleThrow(turn, card, result);
+    	
+    	JSONObject data = new JSONObject();
+    	
     	try {
-			dataUser.put(turn.getName(), user_hand);
-	    	turn.SendChatNotification(CardsConstants.SERVER_NAME, "" + dataUser, gameRoom);
-		} catch (JSONException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
+    	    	data.put("type", CardsConstants.ME_AUTO_THROW);
+    	    	data.put("card", card);
+    	    	data.put("sender", turn.getName());
+    			data.put("nextTurn", gameRoom.getNextTurnUser().getName());
+    			data.put("currentTurn", gameRoom.getTurnUser().getName());
+    	} catch(JSONException e) {
+    		e.printStackTrace();
+    	}
+    	
+    	gameRoom.BroadcastChat(CardsConstants.SERVER_NAME, data.toString());
+    	
     }
     
     /*
@@ -394,7 +412,7 @@ public class RummyRoomExtension3User extends BaseTurnRoomAdaptor {
         }else if(GAME_STATUS==CardsConstants.RESUMED){
             GAME_STATUS=CardsConstants.RUNNING;
             gameRoom.startGame(CardsConstants.SERVER_NAME);
-        } else if (GAME_STATUS == CardsConstants.PAUSED && gameRoom.getJoinedUsers().size() == gameRoom.getMaxUsers()) {
+        } else if (GAME_STATUS == CardsConstants.PAUSED && gameRoom.getJoinedUsers().size() == gameRoom.getMaxUsers() && readyUserList.size() == gameRoom.getMaxUsers()) {
         	GAME_STATUS = CardsConstants.RUNNING;
         	redealCards();
         	gameRoom.startGame(CardsConstants.SERVER_NAME);
@@ -438,6 +456,10 @@ public class RummyRoomExtension3User extends BaseTurnRoomAdaptor {
         } else
         	return CARDS_DECK.remove(CARDS_DECK.size()-1);
      }
+    
+    private boolean shouldDrawCard(ArrayList<Integer> hand) {
+    	return (hand.size() < MAX_NO_OF_CARDS + 1);
+    }
             
     private void validateAndHandleDraw(IUser sender, int drawType, HandlingResult result) {
     	ArrayList<Integer> USER_HAND = null, DRAW_HAND = null;
@@ -457,7 +479,7 @@ public class RummyRoomExtension3User extends BaseTurnRoomAdaptor {
     	
 
     	{	
-    		if (USER_HAND.size() == MAX_NO_OF_CARDS + 1) {
+    		if (!shouldDrawCard(USER_HAND)) {
     			result.code = CardsConstants.INVALID_MOVE;
     			result.description = "Too many cards";
     		} else {
@@ -534,7 +556,7 @@ public class RummyRoomExtension3User extends BaseTurnRoomAdaptor {
 
     	
     	{    		
-    		if (USER_HAND.size() == MAX_NO_OF_CARDS) {
+    		if (shouldDrawCard(USER_HAND)) {
     			result.code = CardsConstants.INVALID_MOVE;
     			result.description = "Draw a card first";
     		} else {

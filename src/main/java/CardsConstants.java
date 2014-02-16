@@ -81,10 +81,14 @@ public class CardsConstants {
     public static final byte ME_THROW_CARD = 7;
     public static final byte ME_FINISHED = 8;
     
-    public static final byte ME_DRAW_CARD_MIDDLE_INFO = 10;
+        public static final byte ME_DRAW_CARD_MIDDLE_INFO = 10;
     
     public static final byte GAME_STARTINFO = 12;    
     
+    public static final byte ME_AUTO_DRAW = 14;
+    public static final byte ME_AUTO_THROW = 15;
+    
+
     
     // error code
     public static final int SUBMIT_CARD = 111;
